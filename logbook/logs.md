@@ -1,5 +1,19 @@
 # LogBook
 
+## 08/14/2022 (XC flight from KMQY to KGZS)
+- Remember to use the checklist after take off and before descend
+- After take off and transition to Nashville airspace, the control asked me
+about my true course heading. Inform them the true course heading
+- Memphis center is 128.15, they will also give you the altimeter
+- Inform them when traffic insight, prepare to descend earlier to avoid Nashville
+Airspace
+
+- First attempt to use the VOR for navigation. VOR navigation step 1 is to
+Ident the VOR frequency, then change the navigation from GPS to VOR
+- Volume: Always check the volume to avoid miscommunications
+- Short Field Take Off: hold breaks at the very beginning
+
+
 ## 08/13/2022 (Flight Training)
 - Practice Soft Field Landing and Soft field Take off, short trip to Lebanon.
 - Soft Field Landing: land as soft as possible
