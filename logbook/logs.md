@@ -1,5 +1,24 @@
 # LogBook
 
+## 08/19/2022 (Landing Practice + Solo in KMQY)
+Practice several times Soft field landing and Short field landing
+- Soft field landing - land as soft as possible
+  - Approach To Landing: as you get close to touchdown, you want to hold the aircraft 1-2 feet off the runway in ground effect
+  - Approach To Landing: As you enter ground effect, it's OK to use a **small amount of power** to level off and make sure you touch down as slow as possible
+  - Touchdown: After your main wheels touch down gently, you want to slowly remove power, if you had any in, and hold the nose wheel off the runway.
+  - Rollout: Since your main gear are much stronger than the nose wheel, you want to keep the nose off the soft/rough surface until your plane has slowed down to a safer speed. By maintaining back pressure on the yoke, you can hold the nose off until you've reached that safer speed. Your nose wheel will thank you.
+
+- Short field landing - land as short as possible (hit the 100 footprint mark)
+  - Approach To Landing: in complete control of your airspeed and descent rate. When you're stabilized, on speed, and on glide path
+  - Touchdown: slowly start reducing your throttle to idle
+  - As you approach your touchdown point, keep reducing power and start flaring. Your goal is to touch down on your point at the minimum controllable airspeed, which is just above stall speed.
+  - Rollout: Once you touchdown, you want to use maximum aerodynamic braking. After you touch down, slowly start pulling back on the yoke, being careful not to lift back off.
+    - Be gentle as you apply the brakes, then start increasing braking pressure to slow down.
+
+Notes on Solo:
+- Try to do full stop taxi back each time so that you can practice more on take off.
+
+
 ## 08/14/2022 (XC flight from KMQY to KGZS)
 - Remember to use the checklist after take off and before descend
 - After take off and transition to Nashville airspace, the control asked me

@@ -125,7 +125,8 @@ A Pilot Report or PIREP is a report of the actual weather conditions as encounte
 
 ![example](https://www.researchgate.net/profile/Gerardo-Flintsch/publication/268339229/figure/tbl9/AS:650779312525314@1532169287248/14-PIREP-Information-and-Codes.png)
 
-[METAR vs TAR](https://pilotinstitute.com/metar-and-taf-reports/)
+1. [METAR vs TAR](https://pilotinstitute.com/metar-and-taf-reports/)
+2. [METAR Abbreviation](https://www.weather.gov/media/wrh/mesowest/metar_decode_key.pdf)
 
 **Convective SIGMET** Convective SIGMETs are issued for severe convective activity, which implies severe turbulence, severe icing, and low-level wind shear. Specifically: Embedded thunderstorms. A line of thunderstorms. Thunderstorms with heavy precipitation affecting 40%+ of an area at least 3,000 square miles.
 
