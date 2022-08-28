@@ -1,5 +1,27 @@
 # LogBook
 
+## 08/27/2022 （Solo XC from KMQY to KBGF）
+First solo xc flight in my life. It's not only a milestone for flight learning. 
+Being suffered from all kinds of things throughout
+the whole year, finally, see some hope in front. Got lost for very long time, the flying seems
+back on track.
+
+Solo is quite different from flying with the instructor. I was chill and relax when flying
+with someone else since I am pretty sure he can correct any mistakes I made. Even
+though I have flown this route multiple times. I am almost 100% focused on where am I, how's the surrounding traffic, etc.
+Always relying on yourself, be the pilot in command.
+
+
+Lessons:
+- **Engine oil should be at least 5** Good to check and find it was 4 and add enough before flight
+- Go through checklists all the time to avoid missing action items
+  - always check lights, carburetor heat, mixture
+- A good traffic pattern is better than small adjustment
+- Prepare the radio frequency before flying, double check with the traffic control
+  - **radar contact**: it means the traffic center indent you
+- For soft field take off, flare at around 35 knots, push the nose little forward
+- Call for weather briefing
+
 ## 08/19/2022 (Landing Practice + Solo in KMQY)
 Practice several times Soft field landing and Short field landing
 - Soft field landing - land as soft as possible
