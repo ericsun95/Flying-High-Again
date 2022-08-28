@@ -1,5 +1,13 @@
 # LogBook
 
+## 08/28/2022 （Solo XC from KMQY to 2M2）
+Second solo xc flight from KMQY to 2M2. Pick a new airport just to
+challenge myself.
+
+- Try to spot and locate the airport at least 5 miles away
+- Practice radio communication (there are some misunderstandings when close to the final destination)
+- Landing: again, don't pull too much when aircraft flares, small adjustment
+
 ## 08/27/2022 （Solo XC from KMQY to KBGF）
 First solo xc flight in my life. It's not only a milestone for flight learning. 
 Being suffered from all kinds of things throughout
