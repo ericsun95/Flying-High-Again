@@ -26,8 +26,7 @@ This time applies to pilot currency regarding flying with passengers at night.
 Each occupant must wear an approved parachute when the aircraft is intentionally placed in a nose-up or nose-down attitude of 30° relative to the horizon. [reference](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-D/section-91.307)
 
 - <span style="color:green"> A chair-type parachute must have been packed by a certificated and appropriately rated parachute rigger within the preceding </span>
--
-180 days. An emergency parachute must have been packed by a certificated and appropriately rated parachute rigger within the preceding 180 days.
+- 180 days. An emergency parachute must have been packed by a certificated and appropriately rated parachute rigger within the preceding 180 days.
 
 - <span style="color:green"> What is the lowest altitude permitted for acrobatic flight? </span>
 - 1,500 feet AGL. No person may operate an aircraft in acrobatic flight below an altitude of 1,500' AGL.
@@ -37,8 +36,7 @@ Each occupant must wear an approved parachute when the aircraft is intentionally
 A flight review is necessary every 24 months.
 
 - <span style="color:green"> The airworthiness of an aircraft can be determined by a preflight inspection and a </span>
-- review of the maintenance records.
-Each owner or operator of an aircraft shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service.
+- review of the maintenance records. Each owner or operator of an aircraft shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service.
 
 - <span style="color:green"> No person may use an ATC transponder unless it has been tested and inspected within at least the preceding </span>
 - 24 calendar months. An ATC transponder may not be used unless, within the preceding 24 calendar months, it has been tested, inspected, and found in compliance with FAR Part 43 requirements.
@@ -58,6 +56,23 @@ No person may act or attempt to act as a crewmember of a civil aircraft within 8
 - <span style="color:green"> When may an 121.5 MHz emergency locator transmitter (ELT) be tested? </span>
 - During the first 5 minutes after the hour.
 Aircraft operational testing is authorized on analog 121.5/243 MHz ELT's only during the first 5 minutes after any hour. Digital 406 MHZ ELTs should only be tested in accordance with the unit's manufacturer's instructions.
+
+- <span style="color:green"> If the control tower uses a light signal to direct a pilot to give way to other aircraft and continue circling, the light will be </span>
+- For an aircraft in the air, steady red means continue circling. [section 91.125](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.125)
+
+- <span style="color:green"> An approved chair-type parachute may be carried in an aircraft for emergency use if it has been packed by an appropriately rated parachute rigger within the preceding </span>
+- 180 days. An emergency parachute must have been packed by a certificated and appropriately rated parachute rigger within the preceding 180 days.
+
+- <span style="color:green"> When the ELT has been in use for more than 1 cumulative hour. </span>
+- When the ELT has been in use for more than 1 cumulative hour.
+Batteries used in ELTs must be replaced (or recharged, if rechargeable) when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful life (or, for rechargeable batteries, 50% of their useful life of charge) has expired.
+
+- <span style="color:green"> Where may an aircraft's operating limitations be found if the aircraft has an Experimental or Special light-sport airworthiness certificate? </span>
+- Attached to the Airworthiness Certificate.
+  For Experimental or Special light-sport aircraft, the operating limitations are attached to the Special Airworthiness Certificate (Form 8130-7) for the aircraft.
+
+- <span style="color:green"> What minimum flight visibility is required for VFR flight operations on an airway below 10,000 feet MSL? </span>
+- 3 miles. Airways are controlled airspace and require 3 miles visibility below 10,000' MSL.
 
 #### Regulations under FAR 43
 - <span style="color:green"> Who may perform preventive maintenance on an aircraft and approve it for return to service? </span>
@@ -101,6 +116,11 @@ It is important that the touchdown of an aircraft occur with the aircraft's long
 - The smooth airflow over the wing becomes turbulent reducing lift.
 An aircraft stall results from a rapid decrease in lift caused by the separation of airflow from the wing’s surface brought on by exceeding the critical AOA.
 
+### Aircraft Performance
+- <span style="color:green"> Ground effect is most likely to result in which problem? </span>
+- Becoming airborne before reaching recommended takeoff speed.
+  When flown near the ground, the vertical component of airflow is restricted and modified. A wing operating in ground effect produces less drag and is more efficient. This can allow takeoff at slower than recommended speeds.
+
 
 ### Cross Country Flight
 - <span style="color:green"> When converting from true course to magnetic heading, a pilot should </span>
@@ -112,6 +132,20 @@ Add west and subtract east variation. The memory device of "West is Best and Eas
 - <span style="color:green"> Which conditions result in the formation of frost? </span>
 - The temperature of the collecting surface is at or below the dewpoint of the adjacent air and the dewpoint is below freezing.
 Frost forms in much the same way as dew. The difference is that the collecting surface must be colder than the dew point of the surrounding air and the dew point must be colder than freezing.
+- <span style="color:green"> What measurement can be used to determine the stability of the atmosphere? </span>
+- Actual lapse rate. The difference between the existing lapse rate of a given mass of air and the adiabatic rates of cooling in upward moving air determines if the air is stable.
+- <span style="color:green"> After takeoff you encounter a temperature inversion. You should expect: </span>
+- Wind shear.
+  Inversions commonly occur within the lowest few thousand feet above ground. Strong wind shears often occur across temperature inversion layers, which can generate turbulence.
+- <span style="color:green"> The destination airport has one runway, 08-26, and the wind is calm. The normal approach in calm wind is a left hand pattern to runway 08. There is no other traffic at the airport. A thunderstorm about 6 miles west is beginning its mature stage, and rain is starting to reach the ground. The pilot decides to: </span>
+- Fly an approach to runway 26 since any unexpected wind due to the storm will be westerly.
+  Land on runway 26 since it is farthest from the storm and the winds are calm at the moment.
+  Within approximately 15 minutes, the thunderstorm reaches the mature stage, which is the most violent time period of the thunderstorm’s life cycle. 
+  A good rule of thumb is to circumnavigate thunderstorms identified as severe or giving an extreme radar echo by at least 20 nautical miles.
+
+- <span style="color:green"> Clouds are divided into four families according to their </span>
+- height range.
+  The four basic cloud types are divided into four families, high, middle, low, and clouds with extensive vertical development.
 
 #### Weather Briefing
 - The outlook briefing will be provided when the proposed departure is 6 hours or more from the time of the briefing. (weather information for the following morning)
@@ -135,6 +169,9 @@ A Pilot Report or PIREP is a report of the actual weather conditions as encounte
 > light to moderate rime.
 The PIREP reports as /IC LGT-MOD RIME 072-089. Light to moderate rime icing from 7,200' to 8,900'.
 
+> BECMG 0606/0608 21015KT P6SM means that between 0600Z and 0800Z the conditions will be becoming, winds from 210° at 15 knots with greater than 6 miles visibility.
+P stands for plus, meaning greater than 6 miles.
+
 ##### Questions
 - <span style="color:green"> Of what value is the Weather Depiction Chart to the pilot? </span>
 - For determining general weather conditions on which to base flight planning.
@@ -148,6 +185,21 @@ Inflight Aviation Weather Advisories (SIGMET, AIRMET, Convective SIGMET) are for
 - <span style="color:green"> What is indicated when a current CONVECTIVE SIGMET forecasts thunderstorms? </span>
 - Thunderstorms obscured by massive cloud layers.
 A Convective SIGMET contains data regarding severe thunderstorms, lines of thunderstorms, thunderstorms with wide spread heavy precipitation, and embedded thunderstorms. Embedded thunderstorms are those obscured by massive cloud layers.
+
+- <span style="color:green"> When the term 'light and variable' is used in reference to a Winds Aloft Forecast, the coded group and windspeed is </span>
+- 9900 and less than 5 knots.
+  When the forecast speed is less than 5 knots, the coded group is "9900" and read, "LIGHT AND VARIABLE".
+
+- <span style="color:green"> Which in-flight advisory would contain information on severe icing not associated with thunderstorms? </span>
+- SIGMET. The SIGMET contains severe weather for all aircraft including severe icing.
+- **Distraction** A Convective SIGMET implies severe or greater turbulence, severe icing, and low-level wind shear. These are only issued for severe thunderstorms, embedded thunderstorms, lines of thunderstorms, and thunderstorms with wide spread heavy precipitation.
+
+- <span style="color:green"> What information is contained in a CONVECTIVE SIGMET? </span>
+- Tornadoes, embedded thunderstorms, and hail 3/4 inch or greater in diameter.
+  A Convective SIGMET contains data regarding severe thunderstorms including, tornadoes, and large hail, ¾" or more in diameter. Embedded thunderstorms are also forecast on Convective SIGMETs.
+- **Distraction** Severe icing, severe turbulence, or widespread dust storms lowering visibility to less than 3 miles.
+  Severe icing not associated with a thunderstorm, severe turbulence, and dust storms lowering visibility to less than 3 miles are forecast on SIGMETs, not Convective SIGMETs.
+
 
 #### Hazardous weather
 ##### Questions
@@ -165,18 +217,27 @@ Fronts, precipitation, freezing levels, and turbulence found on the significant 
 
 ### Airport Operations
 
-- <span style="color:green">While approaching to land on Runway 17 at an uncontrolled airport, you spot a lake on the east side of the airport which has ripples in the water at the southeastern edge. How should you proceed?</span>
+> Holding position markings for taxiway/taxiway intersections consist of a single dashed line extending across the width of the taxiway.
 
+- <span style="color:green">While approaching to land on Runway 17 at an uncontrolled airport, you spot a lake on the east side of the airport which has ripples in the water at the southeastern edge. How should you proceed?</span>
 - Check the windsock on the airfield to make the correct determination with runway choice. While the lake ripples may give you an idea of wind direction, it may not coincide with the wind direction on the field. It is always best to use the wind direction indicator directly on the field when determining the best runway to use.
 
 - <span style="color:green"> A lighted heliport may be identified by a
  </span>
-
 - green, yellow, and white rotating beacon.
 The beacon colors for a lighted heliport are green, yellow, and white. The total number of flashes is 30 to 45 per minute.
 - **Distraction**: flashing yellow light.
 This distracter could indicate a lighted water airport. It should only be used in this manner in conjunction with a standard white and yellow beacon.
 
+- <span style="color:green">How can a military airport be identified at night?</span>
+- Dual peaked (two quick) white flashes between green flashes.
+  Military airport beacons flash alternately white and green, but are differentiated from civil beacons by dual peaked (two quick) white flashes between the green flashes.
+- **Distraction** Alternate white and green light flashes.
+  The beacon for a civilian land based airport has alternating green and white flashes.
+
+- <span style="color:green"> The 'yellow demarcation bar' marking indicates </span>
+- runway with a displaced threshold that precedes the runway.
+  A demarcation bar delineates a runway with a displaced threshold from a blast pad, stopway or taxiway that precedes the runway. A demarcation bar is 3' wide and yellow, since it is not located on the runway.
 
 ### Airspace
 
@@ -197,17 +258,16 @@ This distracter could apply to Class B airspace but not Class E airspace at any 
 - Sequencing and separation for participating VFR aircraft.
 Pilots operating under VFR are encouraged to contact the radar approach control and avail themselves of the TRSA Services. However, participation is voluntary on the part of the pilot.
 
-
+- <span style="color:green"> The vertical limit of Class C airspace above the primary airport is normally </span>
+- 4,000 feet AGL.
+  Class C airspace usually consists of a 5 NM radius core surface area that extends from the surface up to 4,000'.
 
 ### Communications
 
 #### Transponder Code
-- 1200.
-Unless otherwise instructed by an ATC facility, adjust the transponder to reply on Mode 3/A Code 1200 regardless of altitude.
-- 7600.
-This is the radio out transponder code.
-- 7700.
-This distracter is used by an aircraft in distress.
+- 1200.Unless otherwise instructed by an ATC facility, adjust the transponder to reply on Mode 3/A Code 1200 regardless of altitude.
+- 7600.This is the radio out transponder code.
+- 7700.This distracter is used by an aircraft in distress.
 
 #### Questions
 - <span style="color:green"> If the aircraft's radio fails, what is the recommended procedure when landing at a controlled airport? </span>
@@ -225,11 +285,19 @@ Pilots are required to hold short of all runways intersecting their route. Speci
 - <span style="color:green"> When squawking the VFR code (1200) on your transponder, what is the minimum mode the transponder must be in? </span>
 - Mode A. The basic transponder is classified as Mode A. If you have Mode C it is best to use it because it substantially increases the capability of surveillance systems to see your aircraft.
 
+- <span style="color:green"> Inbound to an airport with no tower, FSS, or UNICOM in operation, a pilot should self-announce on MULTICOM frequency </span>
+- 122.9. The MULTICOM Frequency at a non-towered airport without an FSS or UNICOM is 122.9.
+
+- <span style="color:green"> When an air traffic controller issues radar traffic information in relation to the 12-hour clock, the reference the controller uses is the aircraft's </span>
+- The controller can see the track of an aircraft over the ground and so issues radar traffic information accordingly. The pilot must correct for any crab he is holding to be able to look in the correct direction.
 
 ### Magnetic Compass
 - <span style="color:green">In the Northern Hemisphere, the magnetic compass will normally indicate a turn toward the south when</span>
 - the aircraft is decelerated while on a west heading.
 Acceleration / deceleration error is most pronounced on a heading of east or west. **ANDS, Accelerate, North, Decelerate, South**.
+
+- When starting a turn from a northerly heading, the compass lags behind the turn by a slight turn in the opposite direction.
+- When starting a turn from a southerly heading, the compass leads the turn.
 
 - <span style="color:green">Some nontowered airports have a Remote Communications Outlet (RCO) enabling you to:</span>
 - Contact ATC over the VOR.
@@ -240,6 +308,19 @@ Many FSSs are equipped with Remote Communications Outlets (RCOs) and can transmi
 When starting a turn from a southerly heading, the compass leads the turn or exaggerates the rate of turn.
 - **Distraction** When starting a turn from a northerly heading, the compass lags behind the turn.
 - **Distraction** As the heading passes through east or west, the compass will momentarily have the correct heading while turning.
+
+- <span style="color:green"> The magnetic compass: </span>
+- Is self powered.
+  The magnetic compass is the simplest instrument in the panel and needs no outside power to operate.
+
+- <span style="color:green"> What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a south heading in the Northern Hemisphere? </span>
+- The compass will indicate a turn to the right, but at a faster rate than is actually occurring.
+  When making a turn from a southerly heading, the compass gives an indication of a turn in the correct direction, but leads the actual heading in the Northern hemisphere.
+
+- <span style="color:green"> When should pilots state their position on the airport when calling the tower for takeoff? </span>
+- When departing from a runway intersection.
+  Pilots should state their position on the airport when calling the tower for takeoff from a runway intersection.
+
 
 ### Systems
 - <span style="color:green"> To properly purge water from the fuel system of an aircraft equipped with fuel tank sumps and a fuel strainer quick drain, it is necessary to drain fuel from the </span>
@@ -252,9 +333,9 @@ If water shows up in any of the samples from the fuel tank drains, the fuel stra
 ###  Pitot-Static System
 Altitude (All kinds of altitude) (TODO)
 
-Pressure Altitude is the indicated altitude when an altimeter is set to 29.92 in Hg (1013 hPa in other parts of the world). It is primarily used in aircraft performance calculations and in high-altitude flight. Density Altitude is formally defined as “pressure altitude corrected for nonstandard temperature variations.”
-
-True Altitude is height above mean sea level (MSL). Absolute Altitude is height above ground level (AGL).
+1. Pressure Altitude is the indicated altitude when an altimeter is set to 29.92 in Hg (1013 hPa in other parts of the world). It is primarily used in aircraft performance calculations and in high-altitude flight. Density Altitude is formally defined as “pressure altitude corrected for nonstandard temperature variations.”
+2. When the altimeter is at sea level under standard conditions, indicated altitude and true altitude are equal.
+3. True Altitude is height above mean sea level (MSL). Absolute Altitude is height above ground level (AGL).
 
 > One inch of Hg is equal to approximately 1,000' of altitude. The difference between 29.15 and 29.85 is an increase of .70" Hg, or 700' of increased altitude indication.
 
@@ -269,6 +350,10 @@ True altitude is the actual altitude above mean sea level. Pressure altitude is 
 
 - Indicated altitude is equal to pressure altitude when 29.92 is set in the Kohlsman window. This does not account for variations in conditions.
 
+- <span style="color:green"> Which condition would cause the altimeter to indicate a lower altitude than true altitude? </span>
+- Air temperature warmer than standard.
+  When air is warmer than average, the aircraft is higher than the altimeter indicates. 
+  Therefore, the altimeter will read lower than the aircraft's actual altitude.
 
 ### Powerplant
 
@@ -276,14 +361,20 @@ Be alert for carburetor icing if the temperature is between 20° F and 70° F wi
 
 If an aircraft is equipped with a fixed-pitch propeller and a float-type carburetor, the first indication of carburetor ice would most likely be loss of RPM. The formation of ice in the carburetor reduces the amount of fuel reaching the engine. This causes a reduction of RPM.
 
+- <span style="color:green"> A constant-speed propeller is more efficient than other propellers because: </span>
+- It allows selection of the most efficient engine rpm for the given conditions.
+A constant-speed propeller converts a high percentage of brake horsepower into thrust horsepower over a wide range of rpm and airspeed combinations.
+Therefore, it is more efficient than other propellers.
+
+- <span style="color:green"> You have been running an excessively rich mixture for some time now. As a result: </span>
+- The spark plugs may become fouled.
+  Excessively rich mixtures will cause additional carbon buildup on spark plugs, which may cause engine roughness.
+
+
 ### Aerodynamics of Stalls and Spins
 - <span style="color:green"> During an approach to a stall, an increased load factor will cause the airplane to </span>
 - stall at a higher airspeed.
 An airplane's stalling speed increases in proportion to the square root of the load factor. A higher load factor raises the stall speed.
-
-
-
-
 
 #### Questions
 - <span style="color:green"> If the engine oil temperature and cylinder head temperature gauges have exceeded their normal operating range, the pilot may have been operating with </span>
@@ -298,7 +389,13 @@ Warm air is less dense than cold air. Applying carb heat will decreases air dens
 ### Airport Operations
 A runway/runway hold position sign is located at the holding position on runways that intersect other runways.
 
+### Advisory Circulars
+- <span style="color:green"> FAA advisory circulars containing subject matter specifically related to Airspace are issued under which subject number? </span>
+- 70. In the advisory circular system, the information covering airspace is issued under the subject number 70.
+
+### Radio Aids to Navigation
+https://aviation.stackexchange.com/questions/80912/what-radial-is-the-aircraft-crossing
 
 ### Basic Maths
-- fuel -- 6 pounds (average consumption 8 gals/hr)
+- fuel -- 6 pounds (average consumption 8 gals/hr), when calculating the weight & moment, remember to use pound instead of the gallon
 - As a rule of thumb, divide the difference between the temperature and dew point by 4.4 to determine the height of the cloud base. 82° F - 38° F = 44. 44 / 4.4 = 10 (in thousands of feet) or 10,000'.
