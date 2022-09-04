@@ -10,7 +10,11 @@ Night means the time between the end of evening civil twilight and the beginning
 - **Distraction** 1 hour after sunset to 1 hour before sunrise.
 This time applies to pilot currency regarding flying with passengers at night.
 
-#### Regulations under FAR 91
+- <span style="color:green"> With respect to the certification of airmen, which is a class of aircraft? </span>
+- Single-engine land and sea, multiengine land and sea.
+  In airmen certification, a class of aircraft is a group within a category having similar operating characteristics such as those listed in this answer.
+
+#### Regulations under FAR 91 (airworthy condition)
 
 - <span style="color:green"> Except when necessary for takeoff or landing, an aircraft may not be operated closer than what distance from any person, vessel, vehicle, or structure? </span>
 - In an area other than a congested one, the pilot may not operate the aircraft closer than 500' to any person, vessel, vehicle, or structure. (500feet ~ 150m)
@@ -74,19 +78,124 @@ Batteries used in ELTs must be replaced (or recharged, if rechargeable) when the
 - <span style="color:green"> What minimum flight visibility is required for VFR flight operations on an airway below 10,000 feet MSL? </span>
 - 3 miles. Airways are controlled airspace and require 3 miles visibility below 10,000' MSL.
 
+- <span style="color:green"> If an in-flight emergency requires immediate action, the pilot in command may </span>
+- deviate from any rule of 14 CFR part 91 to the extent required to meet that emergency.
+  In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this part to the extent required to meet that emergency.
+  A written report is only required upon request.
+
+- <span style="color:green"> During operations within controlled airspace at altitudes of less than 1,200 feet AGL, the minimum horizontal distance from clouds requirement for VFR flight is </span>
+- 2,000 feet. Classes C, D, & E require a cloud clearance of 2000' horizontally.
+
+- <span style="color:green"> Which best describes the flight conditions under which flight crewmembers are specifically required to keep their safety belts and shoulder harnesses fastened? </span>
+- Safety belts during takeoff and landing and while en route; shoulder harnesses during takeoff and landing.
+  During takeoff and landing, and while en route, each required flight crewmember shall keep the safety belt fastened while at the crewmember station. The crew members' shoulder harnesses must be fastened for takeoff and landing.
+
+- <span style="color:green"> During operations outside controlled airspace at altitudes of more than 1,200 feet AGL, but less than 10,000 feet MSL, the minimum distance below clouds requirement for VFR flight at night is </span>
+- 500 feet.
+  Class G airspace requires 500' below clouds when above 1,200' AGL. (No matter daytime or nighttime)
+
+- <span style="color:green"> An airplane and a glider are on a head-on collision course. What should each pilot do? </span>
+- Both pilots should give way to the right.
+  When aircraft are approaching each other head-on, or nearly so, each pilot of each aircraft shall alter course to the right.
+
+- <span style="color:green"> No person may operate an airplane within Class D airspace at night under special VFR unless the </span>
+- airplane is equipped for instrument flight.
+  To fly an aircraft special VFR at night in Class D airspace, the pilot and aircraft must be certified for instrument flight.
+  The aircraft must only remain clear of the clouds for a special VFR flight.
+
+- <span style="color:green"> What is the minimum weather condition required for airplanes operating under special VFR in Class D airspace? </span>
+- 1 mile flight visibility.
+  For special VFR, in Class D airspace, the pilot needs 1 mile visibility and clear of clouds.
+
+- <span style="color:green"> What minimum flight visibility is required for VFR flight operations on an airway below 10,000 feet MSL? </span>
+- 3 miles.
+  Airways are controlled airspace and require 3 miles visibility below 10,000' MSL.
+
+
+- <span style="color:green"> An operable 4096-code transponder with an encoding altimeter and ADS-B Out are required in which airspace? </span>
+- Class A, Class B (and within 30 miles of the Class B primary airport), and Class C.
+  A transponder with Mode C and ADS-B Out is required in Class A, Class B, and Class C airspace areas and within 30 miles of the Class B primary airport.
+
+- <span style="color:green"> The required documents necessary to be onboard the airplane include: </span>
+- Airworthiness Certificate, Registration, and Operating Handbook.
+  No person may operate an aircraft unless it has within it the following: An appropriate and current Airworthiness Certificate, a Registration Certificate, and an approved flight manual.
+
+- <span style="color:green"> Under what conditions may objects be dropped from an aircraft? </span>
+- If precautions are taken to avoid injury or damage to persons or property on the surface.
+  No PIC may allow any object to be dropped from an aircraft that creates a hazard to persons or property but an object may be dropped if reasonable precautions are taken to avoid injury or damage to persons or property.
+
+- <span style="color:green"> What aircraft inspections are required for rental aircraft that are also used for flight instruction? </span>
+- Annual condition and 100-hour inspections.
+  No person may operate an aircraft for hire, or give flight instruction for hire, unless within the preceding 100 hours of time in service the aircraft has received an annual or 100-hour inspection and been approved for return to service.
+
+- <span style="color:green"> While on final approach for landing, an alternating green and red light followed by a flashing red light is received from the control tower. Under these circumstances, the pilot should </span>
+- exercise extreme caution and abandon the approach, realizing the airport is unsafe for landing.
+For an aircraft in the air, alternating green and red means exercise extreme caution. Flashing red means airport unsafe, do not land.
+
+- <span style="color:green"> The airworthiness of an aircraft can be determined by a preflight inspection and a </span>
+- review of the maintenance records.
+Each owner or operator of an aircraft shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service.
+
+
 #### Regulations under FAR 43
 - <span style="color:green"> Who may perform preventive maintenance on an aircraft and approve it for return to service? </span>
 - Private or Commercial pilot. A person holding at least a private pilot certificate may approve an aircraft for return to service after performing preventive maintenance.
+
+- <span style="color:green"> Which operation would be described as preventive maintenance? </span>
+- Replenishing hydraulic fluid.
+  Replenishing hydraulic fluid in the hydraulic reservoir is a part of preventative maintenance.
+- Servicing landing gear wheel bearings.
+  Servicing landing gear wheel bearings, such as cleaning and greasing is part of preventive maintenance.
+  [Reference](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-43/appendix-Appendix%20A%20to%20Part%2043)
+
+- <span style="color:green"> What regulation allows a private pilot to perform preventive maintenance? </span>
+- 14 CFR Part 43.7.
+  A person holding at least a private pilot certificate may approve an aircraft for return to service after performing preventive maintenance under the provisions of §43.3.
+
 
 #### Regulations under FAR 71
 - <span style="color:green"> The width of a Federal Airway from either side of the centerline is </span>
 - 4 nautical miles.
 Federal airways are 8 miles wide, 4 miles either side of center line provided that the changeover point is 50 nm or less from the VOR.
 
+#### Regulations under FAR 61 (Privileges and limitations)
+- <span style="color:green"> For private pilot operations, a First-Class Medical Certificate issued to a 23-year-old pilot on October 21, this year, will expire at midnight on </span>
+- October 31, 5 years later.
+  A first-class medical certificate used for private pilot privileges expires at the end of the last day of the 60th month (5 years) after the month of the date of the examination if the person has not reached his 40th birthday.
+- <span style="color:green"> If a recreational or private pilot had a flight review on August 8, this year, when is the next flight review required? </span>
+- August 31, 2 years later.
+To act as PIC, a biennial flight review must be accomplished every 24 months. A calendar month ends on the last day of the month.
+- <span style="color:green"> A Third-Class Medical Certificate is issued to a 36-year-old pilot on August 10, this year. To exercise the privileges of a Private Pilot Certificate, the medical certificate will be valid until midnight on </span>
+- August 31, 5 years later.
+  A third-class medical certificate expires at the end of the last day of the 60th month (5 years) after the month of the date of the examination if the person has not reached his 40th birthday on the date of the examination.
+
+- <span style="color:green"> In order to act as pilot in command of a high-performance airplane, a pilot must have </span>
+- received and logged ground and flight instruction in an airplane that has more than 200 horsepower.
+  No person may act as PIC of a high-performance airplane, one with more than 200 hp, 
+  unless he has received and logged ground and flight training from an instructor in a high-performance airplane and received a one-time endorsement in his logbook.
+
+- <span style="color:green"> A certificated private pilot may not act as pilot in command of an aircraft towing a glider unless there is entered in the pilot's logbook a minimum of </span>
+- 100 hours of pilot-in-command time in the aircraft category, class, and type, if required, that the pilot is using to tow a glider.
+  To act as PIC of an aircraft towing a glider, a pilot must have 100 hours of PIC time in the aircraft category, class, and type, if a type rating is required.
+- **Distraction** 200 hours of PIC time in a combination of powered and other-than-powered aircraft.
+
+
+
+
 #### Flying under BasicMed
 - <span style="color:green"> The plane you are flying is capable of cruising at 28,000 ft and going 330 knots. You are pilot in command operating under BasicMed, and part 91. Is this flight legal? </span>
 - Yes, as long as you do not exceed 18,000’ and 250 knots.
 This flight is legal as long as the flight is not carried out at an altitude of more than 18,000' MSL and at an indicated airspeed exceeding 250 knots.
+- <span style="color:green"> To exercise the privileges of BasicMed, what additional documents must the pilot in command have? </span>
+- A current and valid U.S. driver’s license, the completed CMEC checklist and BasicMed medical certificate completion course in the pilot’s logbook.
+Pilots operating under BasicMed may act as PIC as long as they possess a current and valid U.S. driver's license, have completed the CMEC checklist and BasicMed medical course. 
+The completed CMEC checklist and medical certificate completion course must be available in the pilot's logbook.
+- <span style="color:green"> To maintain BasicMed privileges, you must complete a BasicMed medical education course within the preceding: </span>
+- 24 calendar months.
+  To maintain BasicMed privileges, a pilot must complete the medical education course in the preceding 24-calendar months before acting as pilot in command.
+- <span style="color:green"> In order to be eligible for BasicMed privileges, the pilot in command must: </span>
+- Either hold or have held a valid medical certificate after July 14, 2006.
+  To be eligible for BasicMed privileges with a U.S. driver's license, the pilot must either hold or have held a valid medical certificate after July 14, 2006. The medical certificate may be expired, but cannot have been suspended, revoked.
 
 ### Safety of Flight
 #### Questions
@@ -103,6 +212,9 @@ In the mid-1970s, airlines started to employ Crew Resource Management (CRM) in t
 - Taking chances is foolish.
 Pilots who are always trying to prove that they are better than anyone else are thinking "I can do it - I'll show them." The antidote for this macho attitude is to say, "Taking chances is foolish."
 
+- <span style="color:green"> What is one of the neglected items when a pilot relies on short and long term memory for repetitive tasks? </span>
+- Checklists.
+A pilot must be aware of certain behavioral traps. Unjustified reliance on his short and long term memory, regular flying skills, or repetitive and familiar routes, may cause him to neglect proper flight planning, preflight inspections, and checklists.
 
 ### Flight Control
 - <span style="color:green"> To minimize the side loads placed on the landing gear during touchdown, the pilot should keep the </span>
@@ -115,6 +227,8 @@ It is important that the touchdown of an aircraft occur with the aircraft's long
 - <span style="color:green"> A stall occurs when: </span>
 - The smooth airflow over the wing becomes turbulent reducing lift.
 An aircraft stall results from a rapid decrease in lift caused by the separation of airflow from the wing’s surface brought on by exceeding the critical AOA.
+- <span style="color:green"> In what flight condition must an aircraft be placed in order to spin? </span>
+- Stalled. A spin is an aggravated stall that results in autorotation. Without a stall, no spin will result. A spin is an aggravated stall that results in autorotation. Both wings must be stalled for a spin to occur.
 
 ### Aircraft Performance
 - <span style="color:green"> Ground effect is most likely to result in which problem? </span>
@@ -126,6 +240,10 @@ An aircraft stall results from a rapid decrease in lift caused by the separation
 - <span style="color:green"> When converting from true course to magnetic heading, a pilot should </span>
 - add westerly variation and subtract left wind correction angle.
 Add west and subtract east variation. The memory device of "West is Best and East is Least" may help. A left wind angle is subtracted and a right wind angle is added. Visualizing or using a compass rose may help.
+
+- <span style="color:green"> Which statement about longitude and latitude is true? </span>
+- Lines of longitude cross the Equator at right angles.
+  Meridians of longitude are drawn from the North Pole to the South Pole and are at right angles to the Equator.
 
 ### Weather
 #### Weather Theory
@@ -214,6 +332,11 @@ When stable air crosses a mountain barrier, mountain waves may occur. This creat
 - For determining areas to avoid (freezing levels and turbulence).
 Fronts, precipitation, freezing levels, and turbulence found on the significant weather prognostic chart can provide the pilot with insight on areas to avoid. Looking at charts for multiple time periods allows the pilot to see how these areas will change. Prognostic charts are a forecast. They do not give current information.
 
+- <span style="color:green"> Why is frost considered hazardous to flight? </span>
+- Frost spoils the smooth flow of air over the wings, thereby decreasing lifting capability.
+  The roughness of frost spoils the smooth flow of air over the airfoil causing a slowing of the air. This causes early airflow separation resulting in a loss of lift.
+
+
 
 ### Airport Operations
 
@@ -239,6 +362,13 @@ This distracter could indicate a lighted water airport. It should only be used i
 - runway with a displaced threshold that precedes the runway.
   A demarcation bar delineates a runway with a displaced threshold from a blast pad, stopway or taxiway that precedes the runway. A demarcation bar is 3' wide and yellow, since it is not located on the runway.
 
+### Airports, Charts and Publications
+- <span style="color:green"> Which is true concerning the blue and magenta colors used to depict airports on Sectional Aeronautical Charts? </span>
+- Airports with control towers underlying Class B, C, D, and E airspace are shown in blue.
+  Airports having control towers are shown in blue. All others are in magenta. Control towers are found underlying Class B, C, D, and E airspace.
+
+> Legend three shows that an airport beacon is represented by a star. Viewing either the Chart Supplements U.S. or the Sectional Chart excerpt, the star is to the east of runway 17-35.
+
 ### Airspace
 
 - Examples of activities conducted in MOAs include, but are not limited to: air combat tactics, air intercepts, aerobatics, formation training, and low−altitude tactics.
@@ -261,6 +391,22 @@ Pilots operating under VFR are encouraged to contact the radar approach control 
 - <span style="color:green"> The vertical limit of Class C airspace above the primary airport is normally </span>
 - 4,000 feet AGL.
   Class C airspace usually consists of a 5 NM radius core surface area that extends from the surface up to 4,000'.
+
+- <span style="color:green"> What hazards to aircraft may exist in restricted areas such as R-5302B? </span>
+- Unusual, often invisible, hazards such as aerial gunnery or guided missiles.
+  Restricted areas denote the existence of unusual, often invisible, hazards to aircraft such as artillery firing, aerial gunnery, or guided missiles.
+- **Distraction** Military training activities that necessitate acrobatic or abrupt flight maneuvers.
+  This activity is an aspect of a military operation area (MOA).
+
+- <span style="color:green"> To operate at night in Class E airspace you need: </span>
+- 3 miles visibility and 1,000 feet above, 500 feet below, and 2,000 feet horizontally from each cloud.
+  Less than 10,000' MSL, 3 statute miles visibility and 500' below, 1,000' above, and 2,000' horizontally from clouds are required for Class E at night.
+- **Distraction**
+- 3 miles visibility and clear of clouds.
+This distracter could apply to Class B airspace but not Class E airspace at any time.
+- 1 mile visibility and 1,000 feet above, 500 feet below, and 2,000 feet horizontally from each cloud.
+This distracter could apply to Class G airspace, 1,200' AGL - 10,000' MSL, during the day but not Class E airspace at any time.
+
 
 ### Communications
 
@@ -330,6 +476,18 @@ If water shows up in any of the samples from the fuel tank drains, the fuel stra
 - <span style="color:green"> Position (navigation) lights on an aircraft are </span>
 - Red for the left wingtip, green for the right wing tip, and white for the tail. Lights on an aircraft consist of a red light on the left wing, a green light on the right wing, and a white light on the tail.
 
+- <span style="color:green"> Using a turn and slip indicator, how do you know that you are in a coordinated turn? </span>
+- Centering the ball results in a coordinated turn.
+  If inadequate right rudder is applied in a right turn, a slip results. Too much right rudder causes the aircraft to skid through the turn. Centering the ball results in a coordinated turn.
+
+- <span style="color:green"> A precaution for the operation of an engine equipped with a constant-speed propeller is to </span>
+- avoid high manifold pressure settings with low RPM.
+  For any given RPM there is a manifold pressure that should not be exceeded. If manifold pressure is excessive for a given RPM, the pressure within the cylinders could be exceeded, placing undue stress on them. Follow the manufacturer's recommendations.
+
+- <span style="color:green"> How is engine operation controlled on an engine equipped with a constant-speed propeller? </span>
+- The throttle controls power output as registered on the manifold pressure gauge and the propeller control regulates engine RPM.
+  On an engine equipped with a constant-speed propeller, throttle controls the power output registered on a manifold pressure gauge and the propeller control regulates the engine RPM.
+
 ###  Pitot-Static System
 Altitude (All kinds of altitude) (TODO)
 
@@ -353,7 +511,7 @@ True altitude is the actual altitude above mean sea level. Pressure altitude is 
 - <span style="color:green"> Which condition would cause the altimeter to indicate a lower altitude than true altitude? </span>
 - Air temperature warmer than standard.
   When air is warmer than average, the aircraft is higher than the altimeter indicates. 
-  Therefore, the altimeter will read lower than the aircraft's actual altitude.
+  Therefore, the altimeter will read lower than the aircraft's actual altitude. [Reference](https://aviation.stackexchange.com/questions/43473/how-will-the-altimeter-read-in-air-colder-than-isa)
 
 ### Powerplant
 
@@ -392,10 +550,46 @@ A runway/runway hold position sign is located at the holding position on runways
 ### Advisory Circulars
 - <span style="color:green"> FAA advisory circulars containing subject matter specifically related to Airspace are issued under which subject number? </span>
 - 70. In the advisory circular system, the information covering airspace is issued under the subject number 70.
+- <span style="color:green"> FAA advisory circulars containing subject matter specifically related to Airmen are issued under which subject number? </span>
+- 60.
+  In the advisory circular system, the information covering airmen is issued under the subject number 60.
+- **Distraction** 90.
+  The information covering air traffic control and general operations is issued under the subject number 90.
+
+- <span style="color:green"> Advisory Circulars (ACs) are issued to inform the public of nonregulatory material:</span>
+- And are not binding.
+  Unless incorporated into a regulation by reference, the contents of an advisory circular are not binding on the public.
+
+### ADS-B Surveillance Systems
+
+- <span style="color:green"> You are performing a test flight in the vicinity of Onawa airport (K36) at 11,000' MSL. What additional equipment does the aircraft need to have installed? </span>
+- ADS-B Out.
+  Per 91.225, unless otherwise authorized by ATC, no person may operate an aircraft unless the aircraft has ADS-B Out equipment installed in Class E airspace within the 48 contiguous states and the District of Columbia at and above 10,000 feet MSL, excluding the airspace at and below 2,500 feet above the surface.
+  ADS-B Out is only required for flights within the designated lateral and vertical boundaries up to 10,000' MSL of Class B, and C airspace, and Class E airspace above 10,000' MSL (excluding at or below 2,500' AGL) within the contiguous United States.
+
+
+
+
 
 ### Radio Aids to Navigation
 https://aviation.stackexchange.com/questions/80912/what-radial-is-the-aircraft-crossing
 
+
+- <span style="color:green"> If your GPS receiver is equipped with WAAS—Wide Area Augmentation System—your position accuracy is </span>
+- Less than three meters.
+  A differential global positioning system (DGPS) that improves the accuracy of the system. Traditional GPS is accurate to 15 meters. WAAS-enabled GPS accuracy is less than three meters 95 percent of the time.
+
+- <span style="color:green"> When the course deviation indicator (CDI) needle is centered during an omnireceiver check using a VOR test signal (VOT), the omnibearing selector (OBS) and the TO/FROM indicator should read </span>
+- 0° FROM or 180° TO, regardless of the pilot's position from the VOT.
+  With the CDI centered, the OBS should read 0° with a FROM indication, or the OBS should read 180° with a TO indication.
+
+- <span style="color:green"> A VOR test facility—VOT—transmits a: </span>
+- 360 degree radial in all directions.
+  The FAA VOR test facility (VOT) transmits a test signal, 360 degree radial, 
+   in all directions which provides users a convenient means to determine the operational status and accuracy of a VOR receiver while on the ground where a VOT is located.
+
+
 ### Basic Maths
 - fuel -- 6 pounds (average consumption 8 gals/hr), when calculating the weight & moment, remember to use pound instead of the gallon
 - As a rule of thumb, divide the difference between the temperature and dew point by 4.4 to determine the height of the cloud base. 82° F - 38° F = 44. 44 / 4.4 = 10 (in thousands of feet) or 10,000'.
+- (Compass Heading: don't forget compass card): With a plotter, measure the true course from Claxton to Hampton as 44°. Use a flight computer to find the true heading of 40°. Add variation of 6°W. 40°+6° = 46°. Interpolate between -3° and -4° on compass card as -3.5. 46-3.5 = 42.5. Round to 43°.
