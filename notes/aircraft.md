@@ -23,3 +23,4 @@ $S_0$: stalling speed or minimum steady flight speed in the landing configuratio
 $V_{NO}$: Upper limit of green arc (VNO)—the maximum structural cruising speed. Do not exceed this speed except in smooth air.
 $V_{NE}$: the never-exceed speed.
 $V_A$: VA means design maneuvering speed.
+$V_{S1}$: means the stalling speed or the minimum steady flight speed obtained in a specific configuration.

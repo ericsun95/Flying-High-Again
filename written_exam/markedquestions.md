@@ -50,6 +50,11 @@ A flight review is necessary every 24 months.
 - <span style="color:green"> No person may use an ATC transponder unless it has been tested and inspected within at least the preceding </span>
 - 24 calendar months. An ATC transponder may not be used unless, within the preceding 24 calendar months, it has been tested, inspected, and found in compliance with FAR Part 43 requirements.
 
+- <span style="color:green"> Maintenance records show the last transponder inspection was performed on September 1, 2014. The next inspection will be due no later than </span>
+- September 30, 2016.
+  An ATC transponder may not be used unless, within the preceding 24 calendar months, it has been tested, inspected, and found in compliance with FAR Part 43 requirements.
+
+
 - <span style="color:green"> Which records or documents shall the owner or operator of an aircraft keep to show compliance with an applicable Airworthiness Directive? </span>
 - Aircraft maintenance records.
 The registered owner or operator must keep records containing the current status of applicable ADs including, for each, the method of compliance, the AD number, and revision date. For recurring ADs, the time and date when the next action is required.
@@ -61,6 +66,9 @@ In an area other than a congested one, the pilot may not operate the aircraft cl
 - <span style="color:green"> A person may not act as a crewmember of a civil aircraft if alcoholic beverages have been consumed by that person within the preceding </span>
 - 8 hours.
 No person may act or attempt to act as a crewmember of a civil aircraft within 8 hours after the consumption of any alcoholic beverage.
+- <span style="color:green"> No person may attempt to act as a crewmember of a civil aircraft with </span>
+- .04 percent by weight or more alcohol in the blood.
+A person may not act as crew member while having .04 percent by weight or more alcohol in the blood.
 
 - <span style="color:green"> When may an 121.5 MHz emergency locator transmitter (ELT) be tested? </span>
 - During the first 5 minutes after the hour.
@@ -155,6 +163,44 @@ Each owner or operator of an aircraft shall ensure that maintenance personnel ma
 - When the ELT has been in use for more than 1 cumulative hour.
   Batteries used in ELTs must be replaced (or recharged, if rechargeable) when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful life (or, for rechargeable batteries, 50% of their useful life of charge) has expired.
 
+- <span style="color:green"> A flashing white light signal from the control tower to a taxiing aircraft is an indication to </span>
+- return to the starting point on the airport.
+  For an aircraft on the ground, a flashing white means return to starting point.
+
+- <span style="color:green"> In which class of airspace is aerobatic flight prohibited? </span>
+- Class E airspace below 1,500 feet AGL.
+  No person may operate an aircraft in acrobatic flight below an altitude of 1,500' AGL.
+
+- <span style="color:green"> How soon after the conviction for driving while intoxicated by alcohol or drugs shall it be reported to the FAA, Civil Aviation Security Division? </span>
+- No later than 60 days after the motor vehicle action.
+A pilot convicted of operating a motor vehicle while either intoxicated by, impaired by, or under the influence of alcohol or a drug must provide a written report of the motor vehicle actions to the FAA Civil Aviation Security Division within 60 days.
+
+- <span style="color:green"> If the control tower uses a light signal to direct a pilot to give way to other aircraft and continue circling, the light will be </span>
+- steady red.
+  For an aircraft in the air, steady red means continue circling.
+
+- <span style="color:green"> In addition to other preflight actions for a VFR flight away from the vicinity of the departure airport, regulations specifically require the pilot in command to </span>
+- determine runway lengths at airports of intended use and the aircraft's takeoff and landing distance data.
+  Before any flight, the PIC must acquire information regarding runway lengths at airports of intended use, and takeoff and landing distance information.
+
+- <span style="color:green"> If an alteration or repair substantially affects an aircraft's operation in flight, that aircraft must be test flown by an appropriately-rated pilot and approved for return to service prior to being operated </span>
+- with passengers aboard.
+No person may carry any person (other than crewmembers) in an aircraft that has been maintained, rebuilt, or altered in a manner that may have appreciably changed its flight characteristics until test flown and approved for return to service.
+- **Distraction** by any private pilot.
+  A private pilot may test fly an aircraft after an alteration or repair was done.
+
+- <span style="color:green"> What flight visibility do you need in order to perform an acrobatic maneuver? </span>
+- 3 miles.
+  No person may operate an aircraft in aerobatic flight when flight visibility is less than 3 statute miles.
+
+- <span style="color:green"> Which light signal from the control tower clears a pilot to taxi? </span>
+- Flashing green.
+  Flashing green for a pilot on the ground means cleared to taxi.
+
+- <span style="color:green"> Where may an aircraft's operating limitations be found if the aircraft has an Experimental or Special light-sport airworthiness certificate? </span>
+- Attached to the Airworthiness Certificate.
+  For Experimental or Special light-sport aircraft, the operating limitations are attached to the Special Airworthiness Certificate (Form 8130-7) for the aircraft.
+
 
 
 #### Regulations under FAR 43
@@ -234,6 +280,22 @@ To act as PIC, a biennial flight review must be accomplished every 24 months. A 
 - **Distraction** Enough to fly to the first point of intended landing and to fly after that for 30 minutes at normal cruising speed.
   This distracter is the fuel requirement for a VFR flight during the day.
 
+- <span style="color:green"> Except in Alaska, during what time period should lighted position lights be displayed on an aircraft? </span>
+- Sunset to sunrise.
+  Position lights must be displayed from sunset to sunrise.
+- **Distraction** End of evening civil twilight to the beginning of morning civil twilight.
+  This distracter is the definition of night.
+- **Distraction** 1 hour after sunset to 1 hour before sunrise.
+  This distracter is the time period used with regard to carrying passengers and logging currency for carrying passengers at night.
+
+- <span style="color:green"> Each person who holds a pilot certificate or a medical certificate shall present it for inspection upon the request of any </span>
+- local law enforcement officer.
+Any local law enforcement officer or authorized representative of the TSA may request to view your certificates.
+
+#### Regulations under NTSB 830
+- <span style="color:green"> What period of time must a person be hospitalized before an injury may be defined by the NTSB as a 'serious injury'? </span>
+- 48 hours; commencing within 7 days after date of the injury.
+  Serious injury means any injury which requires hospitalization for more than 48 hours, commencing within 7 days from the date the injury was received.
 
 #### Flying under BasicMed
 - <span style="color:green"> The plane you are flying is capable of cruising at 28,000 ft and going 330 knots. You are pilot in command operating under BasicMed, and part 91. Is this flight legal? </span>
@@ -246,6 +308,11 @@ The completed CMEC checklist and medical certificate completion course must be a
 - <span style="color:green"> To maintain BasicMed privileges, you must complete a BasicMed medical education course within the preceding: </span>
 - 24 calendar months.
   To maintain BasicMed privileges, a pilot must complete the medical education course in the preceding 24-calendar months before acting as pilot in command.
+- <span style="color:green"> While operating under BasicMed, the pilot in command must have visited their primary care physician within the preceding: </span>
+- 48 calendar months.
+  To operate under BasicMed, the pilot must receive a comprehensive medical examination from a State-licensed physician during the 48 months before acting as pilot in command of an operation conducted under 61.113.
+
+
 - <span style="color:green"> In order to be eligible for BasicMed privileges, the pilot in command must: </span>
 - Either hold or have held a valid medical certificate after July 14, 2006.
   To be eligible for BasicMed privileges with a U.S. driver's license, the pilot must either hold or have held a valid medical certificate after July 14, 2006. The medical certificate may be expired, but cannot have been suspended, revoked.
@@ -297,6 +364,11 @@ Add west and subtract east variation. The memory device of "West is Best and Eas
 - <span style="color:green"> Which statement about longitude and latitude is true? </span>
 - Lines of longitude cross the Equator at right angles.
   Meridians of longitude are drawn from the North Pole to the South Pole and are at right angles to the Equator.
+
+- <span style="color:green"> (Refer to figure 51) What information should be entered in the Level field for Item 15 on the International Flight Plan form? </span>
+- VFR cruising altitude.
+  You should specify the VFR cruising altitude in the Level field for Item 15.
+
 
 ### Weather
 #### Weather Theory
@@ -422,6 +494,12 @@ This distracter could indicate a lighted water airport. It should only be used i
 
 > Legend three shows that an airport beacon is represented by a star. Viewing either the Chart Supplements U.S. or the Sectional Chart excerpt, the star is to the east of runway 17-35.
 
+- <span style="color:green"> (Refer to Figure 71.) Close to the airport information box at Lincoln Regional/Harder (area 4) notice a parachute icon. Which publication would give you information about the parachute jumping operations there? </span>
+- Chart Supplement publication
+  Information regarding parachute jumping operation are found in the A/FD section of the Charts Supplement publication.
+
+
+
 ### Airspace
 
 - Examples of activities conducted in MOAs include, but are not limited to: air combat tactics, air intercepts, aerobatics, formation training, and low−altitude tactics.
@@ -471,6 +549,21 @@ Class E—Less than 10,000 feet MSL—500 feet below, 1,000 feet above, 2,000 fe
 - <span style="color:green"> (Refer to Figure 71, area 1.) What is the height of the floor of the Class E airspace above Georgetown Airport? </span>
 - 3,823 feet MSL.
   Georgetown Airport is located outside the magenta shaded areas on the map. Therefore the floor of the Class E airspace above it is 1,200 feet AGL. For MSL add Georgetown’s elevation to 1,200 feet. (2,623+1200=3,823 MSL).
+
+- <span style="color:green"> The issuance of a Temporary Flight Restriction (TFR) may include </span>
+- Protecting public figures.
+  Temporary flight restrictions (TFR) are restrictions to flight imposed in order to protect persons and property in the air or on the surface from an existing or imminent flight associated hazard.
+- **Distraction** Announcing Parachute Jump Areas.
+  Parachute jump aircraft operations are published in the Chart Supplements. Sites that are used frequently are depicted on sectional charts.
+
+- <span style="color:green"> What action should a pilot take when operating under VFR in a Military Operations Area (MOA)? </span>
+- Exercise extreme caution when military activity is being conducted.
+  In an alert area, pilots of participating aircraft as well as pilots transiting the area shall be equally responsible for collision avoidance.
+> Clearance is not required for VFR operations in a MOA.
+
+- <span style="color:green"> The vertical limit of Class C airspace above the primary airport is normally </span>
+- 4,000 feet AGL.
+  Class C airspace usually consists of a 5 NM radius core surface area that extends from the surface up to 4,000'.
 
 
 ### Communications
