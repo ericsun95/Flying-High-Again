@@ -31,13 +31,18 @@ Each occupant must wear an approved parachute when the aircraft is intentionally
 
 - <span style="color:green"> A chair-type parachute must have been packed by a certificated and appropriately rated parachute rigger within the preceding </span>
 - 180 days. An emergency parachute must have been packed by a certificated and appropriately rated parachute rigger within the preceding 180 days.
+- **Distraction** 90 days.
+  This distracter might be confused with the rule that no person may operate the aircraft more than 90 days after the ELT is initially removed from the aircraft.
+- **Distraction** 60 days.
+  This distracter applies to a parachute, other than chair type, packed by a certified rigger if any part of the parachute is composed of silk, pongee, or other natural fiber.
+
 
 - <span style="color:green"> What is the lowest altitude permitted for acrobatic flight? </span>
 - 1,500 feet AGL. No person may operate an aircraft in acrobatic flight below an altitude of 1,500' AGL.
 
 - <span style="color:green"> To act as pilot in command of an aircraft carrying passengers, a pilot must show by logbook endorsement the satisfactory completion of a flight review or completion of a pilot proficiency check within the preceding </span>
 - 24 calendar months.
-A flight review is necessary every 24 months.
+A flight review is necessary every 24 months. 
 
 - <span style="color:green"> The airworthiness of an aircraft can be determined by a preflight inspection and a </span>
 - review of the maintenance records. Each owner or operator of an aircraft shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service.
@@ -136,6 +141,21 @@ For an aircraft in the air, alternating green and red means exercise extreme cau
 - review of the maintenance records.
 Each owner or operator of an aircraft shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service.
 
+- <span style="color:green"> Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over congested areas? </span>
+- An altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.
+  To safely operate an aircraft over a congested area, the pilot must choose an altitude of 1,000' above the highest obstacle within a horizontal radius of 2,000' of the aircraft.
+
+- <span style="color:green"> When flying in a VFR corridor designated through Class B airspace, the maximum speed authorized is </span>
+- 200 knots.
+  When flying in a VFR corridor through Class B airspace, the maximum speed is 200 knots.
+- **Distraction** 250 knots.
+  This distracter is the maximum speed below 10,000' MSL and within the Class B airspace.
+
+- <span style="color:green"> When must batteries in an emergency locator transmitter (ELT) be replaced or recharged, if rechargeable? </span>
+- When the ELT has been in use for more than 1 cumulative hour.
+  Batteries used in ELTs must be replaced (or recharged, if rechargeable) when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful life (or, for rechargeable batteries, 50% of their useful life of charge) has expired.
+
+
 
 #### Regulations under FAR 43
 - <span style="color:green"> Who may perform preventive maintenance on an aircraft and approve it for return to service? </span>
@@ -151,6 +171,15 @@ Each owner or operator of an aircraft shall ensure that maintenance personnel ma
 - <span style="color:green"> What regulation allows a private pilot to perform preventive maintenance? </span>
 - 14 CFR Part 43.7.
   A person holding at least a private pilot certificate may approve an aircraft for return to service after performing preventive maintenance under the provisions of §43.3.
+
+- <span style="color:green"> Unless each occupant is provided with supplemental oxygen, no person may operate a civil aircraft of U.S. registry above a maximum cabin pressure altitude of </span>
+- 15,000 feet MSL.
+  No person may operate a civil aircraft at cabin pressure altitudes above 15,000' MSL unless each occupant of the aircraft is provided with supplemental oxygen.
+- **Distraction** 14,000 feet MSL.
+  The crew must use supplemental oxygen above this altitude.
+- **Distraction** 12,500 feet MSL.
+  The crew must use supplemental oxygen for any period longer than 30 minutes above this altitude and up to and including 14,000' MSL.
+
 
 
 #### Regulations under FAR 71
@@ -179,7 +208,31 @@ To act as PIC, a biennial flight review must be accomplished every 24 months. A 
   To act as PIC of an aircraft towing a glider, a pilot must have 100 hours of PIC time in the aircraft category, class, and type, if a type rating is required.
 - **Distraction** 200 hours of PIC time in a combination of powered and other-than-powered aircraft.
 
+- <span style="color:green"> When does a plastic U.S. student pilot certificate expire? </span>
+- Never.
+  A student pilot certificate issued after April 1, 2016 under part 61.19 is issued without a specific expiration date.
 
+- <span style="color:green"> The pilot in command is required to hold a type rating in which aircraft? </span>
+- Aircraft having a maximum certified takeoff weight of more than 12,500 pounds.
+  A person who acts as a pilot in command of a large aircraft, defined as more than 12,500 lbs., must hold a type rating for that aircraft.
+
+- <span style="color:green"> The minimum flight visibility required for VFR flights above 10,000 feet MSL and more than 1,200 feet AGL in controlled airspace is </span>
+- 5 miles.
+  Class E airspace requires 5 miles visibility above 10,000' MSL.
+- **Distraction** 3 miles.
+  The visibility in this distracter would apply below 10,000'.
+- **Distraction** 1 mile.
+  The visibility in this distracter would apply below 10,000' in uncontrolled airspace.
+
+- <span style="color:green"> For private pilot operations, a Second-Class Medical Certificate issued to a 42-year-old pilot on July 15, this year, will expire at midnight on </span>
+- July 31, 2 years later.
+  Second-class medical privileges for private pilot operations expire at the end of the 24th month after the month of the date of the examination if the person has reached his 40th birthday on or before the date of the examination.
+
+- <span style="color:green"> What is the specific fuel requirement for flight under VFR at night in an airplane? </span>
+- Enough to fly to the first point of intended landing and to fly after that for 45 minutes at normal cruising speed.
+  During the night, the pilot needs enough fuel to fly to the first point of intended landing and, to fly after that for at least 45 minutes.
+- **Distraction** Enough to fly to the first point of intended landing and to fly after that for 30 minutes at normal cruising speed.
+  This distracter is the fuel requirement for a VFR flight during the day.
 
 
 #### Flying under BasicMed
@@ -407,6 +460,18 @@ This distracter could apply to Class B airspace but not Class E airspace at any 
 - 1 mile visibility and 1,000 feet above, 500 feet below, and 2,000 feet horizontally from each cloud.
 This distracter could apply to Class G airspace, 1,200' AGL - 10,000' MSL, during the day but not Class E airspace at any time.
 
+- <span style="color:green"> To fly in Class E airspace below 1,200 feet AGL, the horizontal distance from clouds is: </span>
+- 2,000 feet.
+Class E—Less than 10,000 feet MSL—500 feet below, 1,000 feet above, 2,000 feet horizontal.
+
+- <span style="color:green"> (Refer to figure 26, area 3.) When flying over Arrowwood National Wildlife Refuge, a pilot should fly no lower than </span>
+- 2,000 feet AGL.
+  Pilots are requested to maintain a minimum altitude of 2,000' above the surface of National Wildlife Refuges, Big Game Refuges, Game Ranges and Wildlife Ranges administered by the U.S. Fish and Wildlife Service.
+
+- <span style="color:green"> (Refer to Figure 71, area 1.) What is the height of the floor of the Class E airspace above Georgetown Airport? </span>
+- 3,823 feet MSL.
+  Georgetown Airport is located outside the magenta shaded areas on the map. Therefore the floor of the Class E airspace above it is 1,200 feet AGL. For MSL add Georgetown’s elevation to 1,200 feet. (2,623+1200=3,823 MSL).
+
 
 ### Communications
 
@@ -574,6 +639,7 @@ A runway/runway hold position sign is located at the holding position on runways
 ### Radio Aids to Navigation
 https://aviation.stackexchange.com/questions/80912/what-radial-is-the-aircraft-crossing
 
+A radial is always pointing (radiating) away from the VOR. But your instrument shows the TO/FROM indicator as TO. So you are crossing a 210 course towards the VOR, which means you are on the 030 radial from the VOR.
 
 - <span style="color:green"> If your GPS receiver is equipped with WAAS—Wide Area Augmentation System—your position accuracy is </span>
 - Less than three meters.
@@ -587,6 +653,11 @@ https://aviation.stackexchange.com/questions/80912/what-radial-is-the-aircraft-c
 - 360 degree radial in all directions.
   The FAA VOR test facility (VOT) transmits a test signal, 360 degree radial, 
    in all directions which provides users a convenient means to determine the operational status and accuracy of a VOR receiver while on the ground where a VOT is located.
+
+- <span style="color:green"> If Receiver Autonomous Integrity Monitoring (RAIM) capability is lost in-flight, </span>
+- The pilot has no assurance of the accuracy of the GPS position.
+  Receiver Autonomous Integrity Monitoring (RAIM) is the capability of a GPS receiver to perform integrity monitoring on itself by ensuring available satellite signals meet the integrity requirements for a given phase of flight. 
+  Without RAIM, the pilot has no assurance of the GPS position integrity.
 
 
 ### Basic Maths
