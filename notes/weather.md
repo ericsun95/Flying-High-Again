@@ -19,6 +19,9 @@ The total lifecycle is typically about 30 mins.
 
 **The cell transitions to the mature stage when precipitation reaches the surface**.
 
+The mature stage of a thunderstorm is signaled by the formation of downdrafts which allows precipitation to fall.
+
+
 Precipitation descends through the cloud and drags the adjacent air downward, creating
 a strong downdraft alongside the updraft. The downdraft spreads out along the surface,
 well in advance of the parent thunderstorm cell, as a mass of cool, gusty air.
@@ -49,3 +52,35 @@ For supercell thunderstorm, Updraft speeds may reach
 A thunderstorm can pack just about every aviation weather hazard into one
 vicious bundle. These hazards include: lightning, adverse winds, downbursts, turbulence,
 icing, hail, rapid altimeter changes, static electricity, and tornadoes.
+
+
+
+> A nonfrontal, narrow band of active thunderstorms that often develop ahead of a cold front is a known as a squall line.
+A squall line is defined as a non-frontal narrow band of active thunderstorms.
+
+
+## Fog And Frost
+
+- Advection fog:
+An air mass moving inland from the coast in winter.
+Advection fog forms when moist air moves over colder ground or water. 平流雾）
+
+- Steam fog: A light breeze blowing colder air out to sea, Low-level turbulence can occur and icing can become hazardous. (海烟)
+
+- Upslope fog: A warm, moist air mass on the windward side of mountains.
+
+- Inland fog is most likely: Radiation Fog sometimes called ground fog.
+  Radiation fog is a common type of fog, produced over a land area when radiational cooling reduces the air temperature to or below its dew point. 
+  Ground fog is a form of radiation fog that is confined to near ground level. 
+
+Below rotor clouds.
+Under each wave crest there is a rotary circulation. It forms below the elevation of the mountain peaks. Turbulence can be violent in the overturning rotor. The rotor may be marked by a rotor cloud. Turbulence is most severe in and below the standing rotors.
+
+
+- The standard temperature lapse rate is:
+- 2°C per 1,000 feet.
+A standard temperature lapse rate is one in which the temperature decreases at the rate of approximately 3.5 °F or 2 °C per 1000' up to about 36,000'.
+
+
+The temperature of the collecting surface is at or below the dewpoint of the adjacent air and the dewpoint is below freezing.
+Frost forms in much the same way as dew. The difference is that the collecting surface must be colder than the dew point of the surrounding air and the dew point must be colder than freezing.

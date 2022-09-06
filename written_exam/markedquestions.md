@@ -22,6 +22,10 @@ This time applies to pilot currency regarding flying with passengers at night.
 - <span style="color:green"> The responsibility for ensuring that an aircraft is maintained in an airworthy condition is primarily that of the </span>
 - The owner or operator of an aircraft is primarily responsible for maintaining that aircraft in an airworthy condition.
 
+- <span style="color:green"> Who is responsible for determining if an aircraft is in condition for safe flight? </span>
+- The pilot in command.
+The pilot in command of a civil aircraft is responsible for determining whether that aircraft is in condition for safe flight.
+
 - <span style="color:green"> For VFR flight operations above 10,000 feet MSL and more than 1,200 feet AGL, the minimum horizontal distance from clouds required is </span>
 - 1 mile. VFR flight in Class E airspace above 10,000' MSL requires 1 statute mile horizontally from clouds.
 
@@ -133,6 +137,10 @@ Batteries used in ELTs must be replaced (or recharged, if rechargeable) when the
 - Airworthiness Certificate, Registration, and Operating Handbook.
   No person may operate an aircraft unless it has within it the following: An appropriate and current Airworthiness Certificate, a Registration Certificate, and an approved flight manual.
 
+- <span style="color:green"> Where may an aircraft's operating limitations be found? </span>
+- In the current, FAA-approved flight manual, approved manual material, markings, and placards, or any combination thereof.
+  The operating limitations are specified in the approved Airplane Flight Manual, markings, and placards.
+
 - <span style="color:green"> Under what conditions may objects be dropped from an aircraft? </span>
 - If precautions are taken to avoid injury or damage to persons or property on the surface.
   No PIC may allow any object to be dropped from an aircraft that creates a hazard to persons or property but an object may be dropped if reasonable precautions are taken to avoid injury or damage to persons or property.
@@ -158,6 +166,15 @@ Each owner or operator of an aircraft shall ensure that maintenance personnel ma
   When flying in a VFR corridor through Class B airspace, the maximum speed is 200 knots.
 - **Distraction** 250 knots.
   This distracter is the maximum speed below 10,000' MSL and within the Class B airspace.
+
+- <span style="color:green"> When flying in the airspace underlying Class B airspace, the maximum speed authorized is </span>
+- 200 knots.
+No person may operate an aircraft in the airspace underlying a Class B airspace area, at an indicated airspeed of more than 200 knots (230 mph).
+
+- <span style="color:green"> Unless otherwise authorized, what is the maximum indicated airspeed at which a person may operate an aircraft below 10,000 feet MSL? </span>
+- 250 knots.
+No person may operate an aircraft below 10,000' MSL at an indicated airspeed of more than 250 knots (288 m.p.h.).
+- **Distraction** This is the maximum speed below 2,500' AGL within 4 NM of the primary airport of a Class C or Class D airspace area and in the airspace underlying a Class B airspace area designated for an airport or in a VFR corridor through such a Class B airspace area.
 
 - <span style="color:green"> When must batteries in an emergency locator transmitter (ELT) be replaced or recharged, if rechargeable? </span>
 - When the ELT has been in use for more than 1 cumulative hour.
@@ -201,6 +218,17 @@ No person may carry any person (other than crewmembers) in an aircraft that has 
 - Attached to the Airworthiness Certificate.
   For Experimental or Special light-sport aircraft, the operating limitations are attached to the Special Airworthiness Certificate (Form 8130-7) for the aircraft.
 
+- <span style="color:green"> No person may operate an aircraft in formation flight </span>
+- except by prior arrangement with the pilot in command of each aircraft.
+No person may operate an aircraft in formation flight except by arrangement with the pilot in command of each aircraft in the formation.
+
+- <span style="color:green"> Under what condition, if any, may a pilot allow a person who is obviously under the influence of drugs to be carried aboard an aircraft? </span>
+- In an emergency or if the person is a medical patient under proper care.
+The PIC may carry a person who is under the influence of drugs in an emergency, or as long as they are a medical patient under proper care.
+
+- <span style="color:green"> Outside controlled airspace, the minimum flight visibility requirement for VFR flight above 1,200 feet AGL and below 10,000 feet MSL during daylight hours is </span>
+- 1 mile.
+  During the day, Class G airspace requires 1 mile flight visibility when above 1,200' AGL and below 10,000' MSL if the pilot has a private or higher certificate.
 
 
 #### Regulations under FAR 43
@@ -226,7 +254,21 @@ No person may carry any person (other than crewmembers) in an aircraft that has 
 - **Distraction** 12,500 feet MSL.
   The crew must use supplemental oxygen for any period longer than 30 minutes above this altitude and up to and including 14,000' MSL.
 
+- <span style="color:green"> Who may perform preventive maintenance on an aircraft and approve it for return to service?
+1. Student or Recreational pilot.
+2. Private or Commercial pilot.
+3. None of the above. </span>
+- number 2. A person holding at least a private pilot certificate may approve an aircraft for return to service after performing preventive maintenance.
 
+
+#### Regulations under FAR 39
+- <span style="color:green"> May a pilot operate an aircraft that is not in compliance with an Airworthiness Directive (AD)? </span>
+- Yes, if allowed by the AD.
+No person may operate a product to which an airworthiness directive applies except in accordance with the requirements of that airworthiness directive. Therefore, if the AD states the exception, the pilot may follow it.
+
+- <span style="color:green"> What should an owner or operator know about Airworthiness Directives (AD's)? </span>
+- They are mandatory.
+  No person may operate a product to which an airworthiness directive applies except in accordance with the requirements of that airworthiness directive.
 
 #### Regulations under FAR 71
 - <span style="color:green"> The width of a Federal Airway from either side of the centerline is </span>
@@ -292,10 +334,37 @@ To act as PIC, a biennial flight review must be accomplished every 24 months. A 
 - local law enforcement officer.
 Any local law enforcement officer or authorized representative of the TSA may request to view your certificates.
 
+- <span style="color:green"> The three takeoffs and landings that are required to act as pilot in command at night must be done during the time period from </span>
+- 1 hour after sunset to 1 hour before sunrise.
+  For the purposes of recent experience, night flight begins one hour after sunset and ends one hour before sunrise.
+- **Distraction**
+  sunset to sunrise.
+  This is the time that position lights are necessary and is a limitation for flight by recreational pilots.
+
+- <span style="color:green"> How soon after the conviction for driving while intoxicated by alcohol or drugs shall it be reported to the FAA, Civil Aviation Security Division? </span>
+- No later than 60 days after the motor vehicle action.
+  A pilot convicted of operating a motor vehicle while either intoxicated by, impaired by, or under the influence of alcohol or a drug must provide a written report of the motor vehicle actions to the FAA Civil Aviation Security Division within 60 days.
+
+
 #### Regulations under NTSB 830
 - <span style="color:green"> What period of time must a person be hospitalized before an injury may be defined by the NTSB as a 'serious injury'? </span>
 - 48 hours; commencing within 7 days after date of the injury.
   Serious injury means any injury which requires hospitalization for more than 48 hours, commencing within 7 days from the date the injury was received.
+
+- <span style="color:green"> If an aircraft is involved in an accident which results in substantial damage to the aircraft, the nearest NTSB field office should be notified </span>
+- immediately.
+The operator of a civil aircraft must immediately notify the nearest NTSB field office when an accident occurs resulting in substantial damage.
+- **Distraction**
+  within 7 days.
+  A formal report is required after 7 days if an overdue aircraft is still missing.
+
+- <span style="color:green"> The operator of an aircraft that has been involved in an accident is required to file an NTSB accident report within how many days? </span>
+- 10.
+The operator of a civil aircraft must file a report within 10 days after an accident.
+- **Distraction** 7.
+This distracter is related to a missing aircraft. The operator of a civil aircraft must file a report after 7 days if an overdue aircraft is still missing.
+
+
 
 #### Flying under BasicMed
 - <span style="color:green"> The plane you are flying is capable of cruising at 28,000 ft and going 330 knots. You are pilot in command operating under BasicMed, and part 91. Is this flight legal? </span>
@@ -312,10 +381,19 @@ The completed CMEC checklist and medical certificate completion course must be a
 - 48 calendar months.
   To operate under BasicMed, the pilot must receive a comprehensive medical examination from a State-licensed physician during the 48 months before acting as pilot in command of an operation conducted under 61.113.
 
-
 - <span style="color:green"> In order to be eligible for BasicMed privileges, the pilot in command must: </span>
 - Either hold or have held a valid medical certificate after July 14, 2006.
   To be eligible for BasicMed privileges with a U.S. driver's license, the pilot must either hold or have held a valid medical certificate after July 14, 2006. The medical certificate may be expired, but cannot have been suspended, revoked.
+
+- <span style="color:green"> While operating under BasicMed as pilot in command, the aircraft </span>
+- Must be limited to 6 seats and not certified for more than 6,000 lbs. (5 passengers)
+  The aircraft must be authorized to carry not more than 6 occupants, has a maximum takeoff weight of not more than 6,000 pounds, and is operated with no more than five passengers on board.
+
+- <span style="color:green"> The plane you are flying is capable of cruising at 28,000 ft and going 330 knots. You are pilot in command operating under BasicMed, and part 91. Is this flight legal? </span>
+- Yes, as long as you do not exceed 18,000’ and 250 knots.
+  This flight is legal as long as the flight is not carried out at an altitude of more than 18,000' MSL and at an indicated airspeed exceeding 250 knots.
+
+
 
 ### Safety of Flight
 #### Questions
@@ -332,16 +410,35 @@ In the mid-1970s, airlines started to employ Crew Resource Management (CRM) in t
 - Taking chances is foolish.
 Pilots who are always trying to prove that they are better than anyone else are thinking "I can do it - I'll show them." The antidote for this macho attitude is to say, "Taking chances is foolish."
 
+- <span style="color:green"> What is the antidote when a pilot has a hazardous attitude, such as 'Resignation'? </span>
+- I am not helpless.
+Pilots who think "what's the use?" do not see themselves as being able to make a great deal of difference in what happens to them. The antidote to this resignation attitude is to say, "I'm not helpless. I can make a difference."
+
+
 - <span style="color:green"> What is one of the neglected items when a pilot relies on short and long term memory for repetitive tasks? </span>
 - Checklists.
 A pilot must be aware of certain behavioral traps. Unjustified reliance on his short and long term memory, regular flying skills, or repetitive and familiar routes, may cause him to neglect proper flight planning, preflight inspections, and checklists.
+
+- <span style="color:green"> What tool does crew resource management provide to flight crews? </span>
+- The ability to recognize hazards and mitigate risks.
+In the mid-1970s, airlines started to employ Crew Resource Management (CRM) in the workplace (flight deck). The program helped crews recognize hazards and provided tools for them to eliminate the hazard or minimize its impact.
+
+- <span style="color:green"> Eye movements during daytime collision avoidance scanning should: </span>
+- not exceed 10 degrees and view each sector at least 1 second.
+Use a series of short, regularly spaced eye movements that bring successive areas of the sky into the central visual field. Each movement should not exceed 10° and each area should be observed for at least 1 second to enable detection.
+
+- <span style="color:green"> What is it often called when a pilot pushes his or her capabilities and the aircraft's limits by trying to maintain visual contact with the terrain in low visibility and ceiling? </span>
+- Scud running.
+  Scud running is pushing the capabilities of the pilot and the aircraft to the limits by trying to maintain visual contact with the terrain while trying to avoid physical contact with it.
+
 
 ### Flight Control
 - <span style="color:green"> To minimize the side loads placed on the landing gear during touchdown, the pilot should keep the </span>
 - longitudinal axis of the aircraft parallel to the direction of its motion.
 It is important that the touchdown of an aircraft occur with the aircraft's longitudinal axis parallel to the direction in which it is moving along the runway to reduce side loads on the landing gear.
 
-
+> The upward pitch of the wings, called dihedral.
+The upward angle formed by the wings is called dihedral. Dihedral contributes to roll stability.
 
 ### Aerodynamics of Stalls and Spins
 - <span style="color:green"> A stall occurs when: </span>
@@ -390,15 +487,33 @@ Frost forms in much the same way as dew. The difference is that the collecting s
 - height range.
   The four basic cloud types are divided into four families, high, middle, low, and clouds with extensive vertical development.
 
+- <span style="color:green"> The wind at 5,000 feet AGL is southwesterly while the surface wind is southerly. This difference in direction is primarily due to </span>
+- friction between the wind and the surface.
+In the northern hemisphere, Coriolis force deflects the pressure gradient force wind to the right until the wind blows approximately parallel to the isobars. Surface friction reduces this deflection so that a southwesterly wind becomes southerly.
+
+- <span style="color:green"> A temperature inversion would most likely result in which weather condition? </span>
+- An increase in temperature as altitude is increased.
+  By definition, a temperature inversion is an increase in temperature as altitude is increased. The normal temperature "lapse rate" is inverted.
+
+- <span style="color:green"> After takeoff you encounter a temperature inversion. You should expect: </span>
+- Wind shear.
+Inversions commonly occur within the lowest few thousand feet above ground. Strong wind shears often occur across temperature inversion layers, which can generate turbulence.
+
+- <span style="color:green"> The most frequent type of ground or surface-based temperature inversion is that which is produced by </span>
+- terrestrial radiation on a clear, relatively still night.
+  The ground radiates and cools much faster than the overlying air. The air in contact with the ground becomes cold while the temperature a few hundred feet above changes very little. Thus, temperature increases with altitude.
+
 #### Weather Briefing
 - The outlook briefing will be provided when the proposed departure is 6 hours or more from the time of the briefing. (weather information for the following morning)
-- A standard briefing is a comprehensive weather briefing. It includes all the necessary information the pilot needs to plan his flight.
+- A standard briefing is a comprehensive weather briefing. It includes all the necessary information the pilot needs to plan his flight. (Which type weather briefing should a pilot request, when departing within the hour, if no preliminary weather information has been received?)
 - an abbreviated briefing.
 An abbreviated briefing provides a supplement to disseminated data, an update to a previous briefing, or a briefing limited to specific information.
 
 #### Weather Forecasts and Reports
 
 A Pilot Report or PIREP is a report of the actual weather conditions as encountered by an aircraft in flight. Traditionally, these reports are transmitted by radio to an appropriate ground station for dissemination but, when necessary, they can be made by telephone after landing.
+
+Inflight Aviation Weather Advisories (SIGMET, AIRMET, Convective SIGMET) are forecasts to advise en route aircraft of development of potentially hazardous weather. AIRMETs and SIGMETs provide information on icing.
 
 ![example](https://www.researchgate.net/profile/Gerardo-Flintsch/publication/268339229/figure/tbl9/AS:650779312525314@1532169287248/14-PIREP-Information-and-Codes.png)
 
@@ -414,6 +529,8 @@ The PIREP reports as /IC LGT-MOD RIME 072-089. Light to moderate rime icing from
 
 > BECMG 0606/0608 21015KT P6SM means that between 0600Z and 0800Z the conditions will be becoming, winds from 210° at 15 knots with greater than 6 miles visibility.
 P stands for plus, meaning greater than 6 miles.
+
+> When the forecast speed is less than 5 knots, the coded group is "9900" and read, "LIGHT AND VARIABLE".
 
 ##### Questions
 - <span style="color:green"> Of what value is the Weather Depiction Chart to the pilot? </span>
@@ -443,6 +560,10 @@ A Convective SIGMET contains data regarding severe thunderstorms, lines of thund
 - **Distraction** Severe icing, severe turbulence, or widespread dust storms lowering visibility to less than 3 miles.
   Severe icing not associated with a thunderstorm, severe turbulence, and dust storms lowering visibility to less than 3 miles are forecast on SIGMETs, not Convective SIGMETs.
 
+- <span style="color:green"> Absence of the sky condition and visibility on an ATIS broadcast indicates that </span>
+- the ceiling is at least 5,000 feet and visibility is 5 miles or more.
+  The ceiling/sky condition, visibility, and obstructions to vision may be omitted from the ATIS broadcast if the ceiling is above 5,000' and the visibility is more than 5 miles.
+
 
 #### Hazardous weather
 ##### Questions
@@ -461,6 +582,13 @@ Fronts, precipitation, freezing levels, and turbulence found on the significant 
 - Frost spoils the smooth flow of air over the wings, thereby decreasing lifting capability.
   The roughness of frost spoils the smooth flow of air over the airfoil causing a slowing of the air. This causes early airflow separation resulting in a loss of lift.
 
+- <span style="color:green"> Upon encountering severe turbulence, which flight condition should the pilot attempt to maintain? </span>
+- Level flight attitude.
+  Maintain a constant attitude, let the aircraft "ride the waves".
+
+- <span style="color:green"> The presence of ice pellets at the surface is evidence that there </span>
+- is a temperature inversion with freezing rain at a higher altitude.
+Rain falling through colder air may freeze during its descent falling as ice pellets. Ice pellets always indicate freezing rain at higher altitudes.
 
 
 ### Airport Operations
@@ -470,8 +598,7 @@ Fronts, precipitation, freezing levels, and turbulence found on the significant 
 - <span style="color:green">While approaching to land on Runway 17 at an uncontrolled airport, you spot a lake on the east side of the airport which has ripples in the water at the southeastern edge. How should you proceed?</span>
 - Check the windsock on the airfield to make the correct determination with runway choice. While the lake ripples may give you an idea of wind direction, it may not coincide with the wind direction on the field. It is always best to use the wind direction indicator directly on the field when determining the best runway to use.
 
-- <span style="color:green"> A lighted heliport may be identified by a
- </span>
+- <span style="color:green"> A lighted heliport may be identified by a </span>
 - green, yellow, and white rotating beacon.
 The beacon colors for a lighted heliport are green, yellow, and white. The total number of flashes is 30 to 45 per minute.
 - **Distraction**: flashing yellow light.
@@ -487,6 +614,12 @@ This distracter could indicate a lighted water airport. It should only be used i
 - runway with a displaced threshold that precedes the runway.
   A demarcation bar delineates a runway with a displaced threshold from a blast pad, stopway or taxiway that precedes the runway. A demarcation bar is 3' wide and yellow, since it is not located on the runway.
 
+
+- <span style="color:green"> To set the high intensity runway lights on medium intensity, the pilot should click the microphone seven times, and then click it </span>
+- five times within five seconds.
+  For high intensity runway light (HIRL) systems, 7 clicks of the microphone button establishes the high setting and 5 clicks establishes the medium setting. These clicks should be within a 5 second period of time.
+
+
 ### Airports, Charts and Publications
 - <span style="color:green"> Which is true concerning the blue and magenta colors used to depict airports on Sectional Aeronautical Charts? </span>
 - Airports with control towers underlying Class B, C, D, and E airspace are shown in blue.
@@ -498,7 +631,14 @@ This distracter could indicate a lighted water airport. It should only be used i
 - Chart Supplement publication
   Information regarding parachute jumping operation are found in the A/FD section of the Charts Supplement publication.
 
+- <span style="color:green"> In order to find pictorial explanations of airport signs and markings, which publication would you consult? </span>
+- Aeronautical Information Manual (AIM).
+AIM Chapter 2, Section 3, covers Airport Marking Aids and Signs and includes pictures with explanations. The Pilot's Handbook of Aeronautical Knowledge is another source of information.
 
+### Operations at Tower Controlled Fields
+- <span style="color:green"> What is the minimum visibility for a pilot to receive a land and hold short (LAHSO) clearance? </span>
+- 3 statute miles.
+  Pilots should only receive a LAHSO clearance when there is a minimum ceiling of 1,000' and 3 statute miles visibility.
 
 ### Airspace
 
@@ -514,6 +654,10 @@ Less than 10,000' MSL, 3 statute miles visibility and 500' below, 1,000' above, 
 This distracter could apply to Class G airspace, 1,200' AGL - 10,000' MSL, during the day but not Class E airspace at any time.
 - **Distraction**: 3 miles visibility and clear of clouds.
 This distracter could apply to Class B airspace but not Class E airspace at any time.
+
+- <span style="color:green">During operations outside controlled airspace at altitudes of more than 1,200 feet AGL, but less than 10,000 feet MSL, the minimum flight visibility for VFR flight at night is</span>
+- 3 miles. At night under the conditions specified in the question, Class G airspace requires 3 miles flight visibility.
+
 
 - <span style="color:green">TRSA Service in the terminal radar program provides </span>
 - Sequencing and separation for participating VFR aircraft.
@@ -565,11 +709,23 @@ Class E—Less than 10,000 feet MSL—500 feet below, 1,000 feet above, 2,000 fe
 - 4,000 feet AGL.
   Class C airspace usually consists of a 5 NM radius core surface area that extends from the surface up to 4,000'.
 
+- <span style="color:green"> An airspace of defined dimensions, extending from 3 nautical miles outward from the coast of the United States, that contains activity that may be hazardous to nonparticipating aircraft is called: </span>
+- A warning area.
+  A warning area is airspace of defined dimensions, extending from 3 nautical miles outward from the coast of the United States, that contains activity that may be hazardous to nonparticipating aircraft. The purpose of such warning areas is to warn nonparticipating pilots of the potential danger.
+
+- <span style="color:green"> Which initial action should a pilot take prior to entering Class C airspace? </span>
+- Contact approach control on the appropriate frequency.
+  Prior to entering Class C airspace, the pilot should, well in advance of airspace penetration, establish two-way radio communication with the controlling ATC facility.
+
+- <span style="color:green"> (Refer to Figure 26, area1.) What might you expect when flying in an MOA such as Devils Lake. </span>
+- Air combat tactics, air intercepts, aerobatics, formation training, and low−altitude tactics.
+  Examples of activities conducted in MOAs include, but are not limited to: air combat tactics, air intercepts, aerobatics, formation training, and low−altitude tactics.
 
 ### Communications
 
 #### Transponder Code
 - 1200.Unless otherwise instructed by an ATC facility, adjust the transponder to reply on Mode 3/A Code 1200 regardless of altitude.
+- 7500.hijacked aircraft,
 - 7600.This is the radio out transponder code.
 - 7700.This distracter is used by an aircraft in distress.
 
@@ -594,6 +750,10 @@ Pilots are required to hold short of all runways intersecting their route. Speci
 
 - <span style="color:green"> When an air traffic controller issues radar traffic information in relation to the 12-hour clock, the reference the controller uses is the aircraft's </span>
 - The controller can see the track of an aircraft over the ground and so issues radar traffic information accordingly. The pilot must correct for any crab he is holding to be able to look in the correct direction.
+
+- <span style="color:green"> When should pilots state their position on the airport when calling the tower for takeoff? </span>
+- When departing from a runway intersection.
+Pilots should state their position on the airport when calling the tower for takeoff from a runway intersection.
 
 ### Magnetic Compass
 - <span style="color:green">In the Northern Hemisphere, the magnetic compass will normally indicate a turn toward the south when</span>
@@ -687,6 +847,10 @@ Therefore, it is more efficient than other propellers.
   Excessively rich mixtures will cause additional carbon buildup on spark plugs, which may cause engine roughness.
 
 
+- <span style="color:green"> During the run-up at a high-elevation airport, a pilot notes a slight engine roughness that is not affected by the magneto check but grows worse during the carburetor heat check. Under these circumstances, what would be the most logical initial action? </span>
+- Check the results obtained with a leaner setting of the mixture.
+  The aircraft is at a higher altitude airport, causing the proper ratio of fuel to air to be too rich (too much fuel for available air). By leaning out the fuel with the mixture control, the proper ratio will be attained and the roughness will smooth out.
+
 ### Aerodynamics of Stalls and Spins
 - <span style="color:green"> During an approach to a stall, an increased load factor will cause the airplane to </span>
 - stall at a higher airspeed.
@@ -704,6 +868,13 @@ Warm air is less dense than cold air. Applying carb heat will decreases air dens
 
 ### Airport Operations
 A runway/runway hold position sign is located at the holding position on runways that intersect other runways.
+
+The beacon colors for a lighted heliport are green, yellow, and white. The total number of flashes is 30 to 45 per minute.
+
+- <span style="color:green"> Airport taxiway edge lights are identified at night by </span>
+- blue omnidirectional lights.
+  Taxiway edge lights are used to outline the edges of taxiways during periods of darkness or restricted visibility conditions. These fixtures emit blue light in all directions.
+
 
 ### Advisory Circulars
 - <span style="color:green"> FAA advisory circulars containing subject matter specifically related to Airspace are issued under which subject number? </span>
@@ -726,8 +897,11 @@ A runway/runway hold position sign is located at the holding position on runways
   ADS-B Out is only required for flights within the designated lateral and vertical boundaries up to 10,000' MSL of Class B, and C airspace, and Class E airspace above 10,000' MSL (excluding at or below 2,500' AGL) within the contiguous United States.
 
 
+### Collision Avoidance
 
-
+- <span style="color:green"> During a night flight, you observe a steady red light and a flashing red light ahead and at the same altitude. What is the general direction of movement of the other aircraft? </span>
+- The other aircraft is crossing to the left.
+  A steady red light is positioned on the left wing tip and a flashing red beacon light would be positioned such that it is visible in most directions. If these two lights are visible, the aircraft is crossing to the left.
 
 ### Radio Aids to Navigation
 https://aviation.stackexchange.com/questions/80912/what-radial-is-the-aircraft-crossing
@@ -752,8 +926,13 @@ A radial is always pointing (radiating) away from the VOR. But your instrument s
   Receiver Autonomous Integrity Monitoring (RAIM) is the capability of a GPS receiver to perform integrity monitoring on itself by ensuring available satellite signals meet the integrity requirements for a given phase of flight. 
   Without RAIM, the pilot has no assurance of the GPS position integrity.
 
+### Collision Avoidance
+- <span style="color:green"> A near midair collision is defined as an incident associated with the operation of an aircraft in which a possibility of collision occurs as a result of coming less than what distance from another aircraft? </span>
+- 500 feet
+  According to the FAA, a near midair collision is defined as an incident associated with the operation of an aircraft in which a possibility of collision occurs as a result of proximity of less than 500 feet to another aircraft, or a report is received from a pilot or a flight crew member stating that a collision hazard existed between two or more aircraft.
 
 ### Basic Maths
 - fuel -- 6 pounds (average consumption 8 gals/hr), when calculating the weight & moment, remember to use pound instead of the gallon
+- fuel (std tanks) 38 gal
 - As a rule of thumb, divide the difference between the temperature and dew point by 4.4 to determine the height of the cloud base. 82° F - 38° F = 44. 44 / 4.4 = 10 (in thousands of feet) or 10,000'.
 - (Compass Heading: don't forget compass card): With a plotter, measure the true course from Claxton to Hampton as 44°. Use a flight computer to find the true heading of 40°. Add variation of 6°W. 40°+6° = 46°. Interpolate between -3° and -4° on compass card as -3.5. 46-3.5 = 42.5. Round to 43°.
