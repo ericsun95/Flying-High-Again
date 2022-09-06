@@ -1,5 +1,10 @@
 # LogBook
 
+## 09/06/2022 (Written Test)
+
+Took the written test in nashville flight training office.
+The test is very similar to what sporty training offers.
+
 ## 08/28/2022 （Solo XC from KMQY to 2M2）
 Second solo xc flight from KMQY to 2M2. Pick a new airport just to
 challenge myself.

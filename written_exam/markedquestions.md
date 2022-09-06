@@ -500,7 +500,7 @@ In the northern hemisphere, Coriolis force deflects the pressure gradient force 
 Inversions commonly occur within the lowest few thousand feet above ground. Strong wind shears often occur across temperature inversion layers, which can generate turbulence.
 
 - <span style="color:green"> The most frequent type of ground or surface-based temperature inversion is that which is produced by </span>
-- terrestrial radiation on a clear, relatively still night.
+- **terrestrial radiation on a clear, relatively still night.**
   The ground radiates and cools much faster than the overlying air. The air in contact with the ground becomes cold while the temperature a few hundred feet above changes very little. Thus, temperature increases with altitude.
 
 #### Weather Briefing
