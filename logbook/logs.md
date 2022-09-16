@@ -1,5 +1,25 @@
 # LogBook
 
+## 09/16/2022 （Maneuvering）
+Needs more detailed retro on basic maneuvering.
+
+Emergency descent when one wing got fire:
+
+1. Power all the way to idle, nodes down
+2. Bank 30 degrees to the other direction
+3. speed close to 125 knots
+4. when close to 2500 feet, level off
+
+
+## 09/07/2022 （Night Flight）
+Night flight which attempts to land in BNA.
+Failed at getting approval from nashville airspace C.
+
+Night flight is super challenging especially when
+you fly at a low attitude. It needs more practice to 
+find the airport and other aircraft.
+
+
 ## 09/06/2022 (Written Test)
 
 Took the written test in nashville flight training office.
