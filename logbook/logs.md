@@ -1,5 +1,13 @@
 # LogBook
 
+
+## 09/16/2022 （XC Solo Flight MQY -> 2M2 -> BGF -> MQY）
+Finally, I get all the time required for checkride.
+
+Needs more practice on landing and traffic pattern (avoid too close to the runway)
+- When ask for flight following, also mention the type of aircraft (cessna)
+- Similar call sign frequency 24KK and 32KK
+
 ## 09/16/2022 （Maneuvering）
 Needs more detailed retro on basic maneuvering.
 
