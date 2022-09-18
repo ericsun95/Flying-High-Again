@@ -1,7 +1,7 @@
 # LogBook
 
 
-## 09/16/2022 （XC Solo Flight MQY -> 2M2 -> BGF -> MQY）
+## 09/17/2022 （XC Solo Flight MQY -> 2M2 -> BGF -> MQY）
 Finally, I get all the time required for checkride.
 
 Needs more practice on landing and traffic pattern (avoid too close to the runway)
