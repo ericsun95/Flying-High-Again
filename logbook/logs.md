@@ -1,5 +1,11 @@
 # LogBook
 
+## 09/23/2022 （Prepare CheckRide - Maneuver）
+
+- Power on Stall, power off stall, soft field take off
+- Clear on the landing runway
+- Need more practice to find the surrounding traffic
+
 
 ## 09/17/2022 （XC Solo Flight MQY -> 2M2 -> BGF -> MQY）
 Finally, I get all the time required for checkride.
