@@ -2,7 +2,7 @@
 
 ## 09/23/2022 （Prepare CheckRide - Maneuver）
 
-- Power on Stall, power off stall, soft field take off
+- Power on Stall, power off stall, soft field take off should not stop (short field take off stops)
 - Clear on the landing runway
 - Need more practice to find the surrounding traffic
 
