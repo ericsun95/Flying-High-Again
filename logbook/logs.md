@@ -1,8 +1,13 @@
 # LogBook
+## 10/01/2022 （Prepare CheckRide - Maneuver）
+- Practice all the maneuvers again, land in the bumpy wind (15-18 head wind)
+- remember to use the checkride (emergency descent checklist)
+
 
 ## 09/23/2022 （Prepare CheckRide - Maneuver）
 
-- Power on Stall, power off stall, soft field take off should not stop (short field take off stops)
+- Power on Stall, power off stall
+- Soft field take off should not stop (short field take off stops)
 - Clear on the landing runway
 - Need more practice to find the surrounding traffic
 
