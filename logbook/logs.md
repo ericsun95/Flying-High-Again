@@ -1,4 +1,11 @@
 # LogBook
+
+## 10/09/2022 （Prepare CheckRide - Maneuver）
+- Practice all the maneuvers again
+- Remember to use the checklist
+- Emergency landing, turn to runway directly
+- Power off stall: level off directly, throttle, 1 nope of flap
+
 ## 10/01/2022 （Prepare CheckRide - Maneuver）
 - Practice all the maneuvers again, land in the bumpy wind (15-18 head wind)
 - remember to use the checkride (emergency descent checklist)
