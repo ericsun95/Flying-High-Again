@@ -1,5 +1,9 @@
 # Aviation weather
 
+## Cloud
+A "ceiling" is the lowest cloud layer that covers most of the sky.  
+If it is solid, it 's called "overcast." A "broken" ceiling is simply an overcast with a few holes in it.
+
 
 ## Thunderstorm formation
 - Sufficient water vapor (commonly measured using dewpoint)

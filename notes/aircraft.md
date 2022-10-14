@@ -8,6 +8,15 @@
 Engine start process: warm vs cold weather
 
 
+### Rudder
+Counteract the adverse yaw.
+- Adverse Yaw: the airplane will initially yaw in the opposite direction of the bank
+
+### Elevator Trim
+Controlled by a trim wheel in the cockpit.
+
+### Flap
+Landing approach to be steeper and slower
 
 
 ## Category vs Class

@@ -45,7 +45,9 @@ annual inspection + 100 - Hour Inspection
 ### Aircraft accident vs Incident?
 NTSB Part 830 defines what constitutes a serious injury and substantial aircraft damage. The operator of an aircraft must notify the NTSB immediately in the case of an aircraft accident.
 
-
+### Minimum Requirements for VFR
+- minimum 3 miles visibility
+- minimum cloud ceiling height of 1000 feet above the ground
 
 ## References
 - FAR Part 61: https://www.ecfr.gov/current/title-49/subtitle-B/chapter-VIII/part-830
