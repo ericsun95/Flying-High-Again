@@ -7,7 +7,7 @@
   - fly for hire: A second class medical + commercial certificate
   - Airport： first class medical + ATP (Air Transport Operations)
 
-![medical](materials/figures/medical_certificate.png)
+![medical](/materials/figures/medical_certificate.png)
 
 - Flight Review (24 calendar months) + looking FAR 91
 - minimum 1 hour flight + 1hour ground inspection
@@ -22,7 +22,7 @@ No person may act as a crewmember of a civil aircraft
 
 You can't carry a person as a passenger who appears to be intoxicated or under the influence of drugs, unless that person is under proper medical care or if it's an emergency.
 
-![oxygen_requirement](materials/figures/materials/figures/oxygen_requirement.png)
+![oxygen_requirement](/materials/figures/oxygen_requirement.png)
 
 
 ### Aircraft document required to be on board for every flight
