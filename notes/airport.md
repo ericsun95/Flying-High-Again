@@ -1,5 +1,20 @@
+# Airport
 
+Categories:
+- Commercial Service Airports
+- Cargo Service Airports
+- Reliever Airports
+- General Aviation Airports
 
+Types:
+There are two types of airports—towered and nontowered.
+
+Three common sources of information are:
+• Aeronautical Charts
+• Chart Supplement U.S. (formerly Airport/Facility
+Directory)
+• Notices to Airmen (NOTAMs)
+• Automated Terminal Information Service (ATIS)
 
 ## Runway
 
