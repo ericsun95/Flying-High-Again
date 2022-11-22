@@ -16,7 +16,7 @@
 - **ILS Critical Area Boundary, minimum holding short position**
   - https://www.boldmethod.com/learn-to-fly/regulations/when-to-hold-short-of-ils-critical-area-line/
 - **Weather Advisory**
-  - Airmets (S-IFR, Z-Icing, T-turbulence), sigmet, convective sigmet
+  - Airmets (S-IFR, Z-Icing, T-turbulence) 6hrs, sigmet hrs, convective sigmet 2hrs
 - **Which control surface stalls first? In what order?**
   - Ailerons, Elevator, Rudder: https://www.boldmethod.com/learn-to-fly/regulations/when-to-hold-short-of-ils-critical-area-line/
 - **Axes of flight? what controls them?**
@@ -53,7 +53,7 @@
 - **What side of the plane are the green and red lights on**
   - The red light should be on the airplane's left wing and the green light, on the right.
 - **How far do you fly from a thunderstorm?**
-  - 20 miles
+  - 20 miles, 1000 feets above
 - **Hypoxia and carbon monoxide poisoning**
   - 4 types
 - **How does CO poisoning happen? Effects?**
@@ -106,3 +106,8 @@
   - aneriod wafe
 - **Electric system**
   - alternator -> charging the battery
+- Fatal injury means any injury which results in death within 30 days of the accident. 
+- Incident means an occurrence other than an accident, associated with the operation of an aircraft, which affects or could affect the safety of operations.
+- H - clockwise, L - anti-clockwise
+- sectional chart update - 56 days
+- lost procedure: Confess, Climb, Conserve, Communicate, and Comply
