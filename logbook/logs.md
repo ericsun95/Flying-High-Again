@@ -1,4 +1,20 @@
 # LogBook
+## 01/26/2023 (Fly to BNA)
+Flight N48RG
+
+Prefright: stay by battery first, push down, 3s, Arm, avionic on
+
+Communication:
+- Symna Ground, N48RG, west ramp, weather, Ready to Taxi, VFR East
+- BNA Approach 118.04, weather 126.05
+- N48RG, Runway 32, H intersection departure, J, H cross Runway 1, J
+- In air, 118.60 nashville departure, get weather, ask for full stop hanger 7
+- 127.175, 255.35
+- When fly back from BNA, 135.100 RX
+- weather Information, heading, altitude
+- call VFR clearance
+- 126.050 NC, 48RG, VFR, Information P, BNA Ground 121.900
+
 
 ## 10/09/2022 （Prepare CheckRide - Maneuver）
 - Practice all the maneuvers again
