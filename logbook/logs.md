@@ -1,4 +1,11 @@
 # LogBook
+
+## 08/02/2024 (Fly to KBWG)
+- Landing: use of right rudder
+- Landing: be careful with the second stall (too risky)
+- maneuver: steep turn site view, power on/off stall quick release the back pressure
+- center line: keep the aircraft following the center line
+
 ## 01/26/2023 (Fly to BNA)
 Flight N48RG
 
