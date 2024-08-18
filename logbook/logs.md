@@ -6,6 +6,15 @@
 - maneuver: steep turn site view, power on/off stall quick release the back pressure
 - center line: keep the aircraft following the center line
 
+
+Auto pilot:
+- AP
+- AP NAV (auto navigation)
+- climb: AP + throttle + FLC (airspeed) + NOSE UP
+- decent: AP + throttle + VS (vertical speed + decent rate) + NOSE DOWN
+
+always make sure the aircraft is coordinated. Learn how to pitch up/down for speed,
+and use throttle to control the decent rate.
 ## 01/26/2023 (Fly to BNA)
 Flight N48RG
 
